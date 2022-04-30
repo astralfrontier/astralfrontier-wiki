@@ -3,9 +3,7 @@ title: "Flip-a-Card: Authority part 3"
 description: Putting spotlight, vision, and tools together
 published: true
 date: 2020-01-22T09:56:30.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-22T09:56:30.000Z
 ---

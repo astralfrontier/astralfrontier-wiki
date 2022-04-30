@@ -3,8 +3,7 @@ title: Prepping Demigods
 description: Some ideas for what goes into a game of Demigods
 published: true
 date: 2020-01-13T09:20:09.000Z
-tags:
-  - demigods
+tags: demigods
 editor: markdown
 dateCreated: 2020-01-13T09:20:09.000Z
 ---

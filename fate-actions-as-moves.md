@@ -1,9 +1,11 @@
 ---
-date: 2016/08/06
 title: Fate Actions as Moves
-tags:
-  - fate
-  - pbta
+description: Fate Actions as Moves
+published: true
+date: 2016/08/06
+tags: fate, pbta
+editor: markdown
+dateCreated: 2016/08/06
 ---
 
 Let's take a Dungeon World playbook,

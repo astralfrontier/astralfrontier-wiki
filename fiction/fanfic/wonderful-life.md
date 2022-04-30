@@ -1,11 +1,11 @@
 ---
-date: 2015-06-22
 title: It's a Wonderful Life in Hinata
-categories:
-  - Fiction
-tags:
-  - anime
-  - love hina
+description: It's a Wonderful Life in Hinata
+published: true
+date: &a1 2015-06-22T00:00:00.000Z
+tags: anime, love hina, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 Keitaro slumped down in defeat and let his head fall with a dull thud onto the surface of his chest of drawers. A slip of paper fell from his hand and landed on the floor, face up: "Urashima Keitaro, entrance evaluation test. Score: E".

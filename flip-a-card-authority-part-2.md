@@ -3,9 +3,7 @@ title: "Flip-a-Card: Authority part 2"
 description: Vision, flocks, painting, and sockets
 published: true
 date: 2020-01-22T09:09:52.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-22T09:09:52.000Z
 ---

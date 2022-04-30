@@ -3,9 +3,7 @@ title: "Flip-a-Card: POV characters"
 description: Who are the possible POV characters for rewriting card text with flavor?
 published: true
 date: 2020-01-28T23:42:07.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-28T23:42:07.000Z
 ---

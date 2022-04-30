@@ -3,8 +3,7 @@ title: A shipping filk
 description: A shipping filk
 published: true
 date: 2020-01-11T05:26:18.000Z
-tags:
-  - filk
+tags: filk
 editor: markdown
 dateCreated: 2020-01-11T05:26:18.000Z
 ---

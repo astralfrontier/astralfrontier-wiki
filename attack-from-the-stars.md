@@ -1,13 +1,11 @@
 ---
 title: Attack From the Stars
-date: 2016-05-21
-tags:
-  - babylon 5
-  - independence day
-  - mass effect
-categories:
-  - Fiction
-  - Fusion AU
+description: Attack From the Stars
+published: true
+date: &a1 2016-05-21T00:00:00.000Z
+tags: babylon 5, independence day, mass effect, Fiction, Fusion AU
+editor: markdown
+dateCreated: *a1
 ---
 
 This is a "fusion AU", or an alternate universe created by combining

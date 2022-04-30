@@ -1,13 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 14'
-date: 2018-08-14 03:35:45
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
-  - masks
-  - radiance
+title: "#RPGaDay2018 Day 14"
+description: "#RPGaDay2018 Day 14"
+published: true
+date: &a1 2018-08-14T03:35:45.000Z
+tags: rpg-a-day, masks, radiance, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 14: Describe a failure that became amazing**

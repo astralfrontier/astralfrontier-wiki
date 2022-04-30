@@ -1,11 +1,11 @@
 ---
 title: Nightblade
-date: 2017-08-08 14:46:23
-categories:
-  - Roleplaying
-tags:
-  - masks
-  - supers
+description: Nightblade
+published: true
+date: &a1 2017-08-08T14:46:23.000Z
+tags: masks, supers, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 This is a character concept for an upcoming potential [Masks](http://www.magpiegames.com/masks/) game.

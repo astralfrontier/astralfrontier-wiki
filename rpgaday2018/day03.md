@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 3'
-date: 2018-08-03 17:53:05
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 3"
+description: "#RPGaDay2018 Day 3"
+published: true
+date: &a1 2018-08-03T17:53:05.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 3: What gives a game staying power?**

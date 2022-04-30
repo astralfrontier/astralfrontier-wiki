@@ -3,9 +3,7 @@ title: "Flip-a-Card: Solo Playtest part 2"
 description: A quick exploration of flip-a-card to see how it plays
 published: true
 date: 2020-01-18T07:27:50.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-18T07:27:50.000Z
 ---

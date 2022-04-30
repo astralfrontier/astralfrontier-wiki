@@ -1,11 +1,11 @@
 ---
-date: 2015/09/29
 title: Game Design Genetics
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - pinned
+description: Game Design Genetics
+published: true
+date: 2015/09/29
+tags: pinned, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2015/09/29
 ---
 
 I've had this conversation with a few people, and it seemed helpful to them.

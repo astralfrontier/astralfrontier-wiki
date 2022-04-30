@@ -3,9 +3,7 @@ title: "Recap: Psi*Run"
 description: A one-shot of Psi*Run, a "special people chased by the Man" RPG
 published: true
 date: 2019-12-17T07:01:36.000Z
-tags:
-  - recap
-  - psi*run
+tags: recap, psi*run
 editor: markdown
 dateCreated: 2019-12-17T07:01:36.000Z
 ---

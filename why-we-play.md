@@ -1,8 +1,11 @@
 ---
-date: 2016/11/22
 title: Why We Play
-tags:
-  - grand adventure
+description: Why We Play
+published: true
+date: 2016/11/22
+tags: grand adventure
+editor: markdown
+dateCreated: 2016/11/22
 ---
 
 Political posts don't normally appear in this space.

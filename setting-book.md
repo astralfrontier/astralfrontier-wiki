@@ -1,11 +1,11 @@
 ---
-date: 2015/08/09
 title: What setting books would I love to put out?
-tags:
-  - compleat villain
-  - fairy soul
-  - song of eden
-  - supers
+description: What setting books would I love to put out?
+published: true
+date: 2015/08/09
+tags: compleat villain, fairy soul, song of eden, supers
+editor: markdown
+dateCreated: 2015/08/09
 ---
 
 I've occasionally thought about resurrecting [Villains Victorious!]

@@ -3,10 +3,7 @@ title: "Flip-a-Card: PBTA Edition"
 description: How would you run  Flip-a-Card in a more PBTA style?
 published: true
 date: 2020-01-04T01:05:30.000Z
-tags:
-  - flip-a-card
-  - game design diary
-  - pbta
+tags: flip-a-card, game design diary, pbta
 editor: markdown
 dateCreated: 2020-01-04T01:05:30.000Z
 ---

@@ -3,9 +3,7 @@ title: "Flip-a-Card: City Construction Playtest"
 description: How did actually creating a city work out?
 published: true
 date: &a1 2020-07-15T10:55:46.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: *a1
 ---

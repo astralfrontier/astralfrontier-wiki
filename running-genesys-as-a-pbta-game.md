@@ -3,9 +3,7 @@ title: Running Genesys as a PBTA game
 description: Running Fantasy Flight Games' Genesys RPG with PBTA conventions
 published: true
 date: 2019-11-11T04:23:23.000Z
-tags:
-  - genesys
-  - pbta
+tags: genesys, pbta
 editor: markdown
 dateCreated: 2019-11-11T04:23:23.000Z
 ---

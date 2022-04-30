@@ -2,13 +2,10 @@
 title: "Flip-a-Card: Playtest, April 19"
 description: Running the game with a reasonably modern set of cards!
 published: true
-date: 2020-04-19T03:02:59-07:00
-tags:
-  - flip-a-card
-  - game design diary
-  - playtest
+date: 2020-04-19T10:02:59.000Z
+tags: flip-a-card, game design diary, playtest
 editor: markdown
-dateCreated: 2020-04-19T03:02:59-07:00
+dateCreated: 2020-04-19T10:02:59.000Z
 ---
 
 ![Featured Image](flip-a-card-playtest-april-19.jpg)

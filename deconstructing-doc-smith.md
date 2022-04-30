@@ -1,8 +1,11 @@
 ---
-date: 2016/03/24
 title: Deconstructing Doc Smith
-tags:
-  - scifi
+description: Deconstructing Doc Smith
+published: true
+date: 2016/03/24
+tags: scifi
+editor: markdown
+dateCreated: 2016/03/24
 ---
 
 [Film Crit Hulk] writes about "breaking a story".

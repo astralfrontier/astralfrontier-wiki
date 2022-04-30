@@ -1,11 +1,11 @@
 ---
 title: Armiger
-date: 2017-08-07 10:58:45
-categories:
-  - Roleplaying
-tags:
-  - masks
-  - supers
+description: Armiger
+published: true
+date: &a1 2017-08-07T10:58:45.000Z
+tags: masks, supers, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 This is a character concept for an upcoming potential [Masks](http://www.magpiegames.com/masks/) game.

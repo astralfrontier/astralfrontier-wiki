@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 28'
-date: 2018-08-29 00:42:11
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 28"
+description: "#RPGaDay2018 Day 28"
+published: true
+date: &a1 2018-08-29T00:42:11.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 28: Share whose inspiring gaming excellence you're grateful for**

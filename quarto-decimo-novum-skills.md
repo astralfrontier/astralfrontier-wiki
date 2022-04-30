@@ -3,11 +3,7 @@ title: "Quarto Decimo Novum: Skills"
 description: The core Genesys skills for player characters
 published: true
 date: 2019-11-19T04:20:25.000Z
-tags:
-  - quarto decimo novum
-  - game design diary
-  - ffxiv
-  - genesys
+tags: quarto decimo novum, game design diary, ffxiv, genesys
 editor: markdown
 dateCreated: 2019-11-19T04:20:25.000Z
 ---

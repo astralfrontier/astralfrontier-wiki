@@ -1,12 +1,11 @@
 ---
 title: Link
-date: 2017-08-07 16:57:00
-categories:
-  - Roleplaying
-tags:
-  - masks
-  - supers
-  - link
+description: Link
+published: true
+date: &a1 2017-08-07T16:57:00.000Z
+tags: masks, supers, link, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 This is a character concept for an upcoming potential [Masks](http://www.magpiegames.com/masks/) game.

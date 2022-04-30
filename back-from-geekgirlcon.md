@@ -3,9 +3,7 @@ title: Back from GeekGirlCon
 description: "Pictures and links from #GGC19"
 published: true
 date: 2019-11-18T06:18:17.000Z
-tags:
-  - convention
-  - geekgirlcon
+tags: convention, geekgirlcon
 editor: markdown
 dateCreated: 2019-11-18T06:18:17.000Z
 ---

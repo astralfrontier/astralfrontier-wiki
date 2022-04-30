@@ -3,9 +3,7 @@ title: "Flip-a-Card: Validation"
 description: What do the character cards look like when combined? A work in progress.
 published: true
 date: 2019-12-30T08:09:02.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2019-12-30T08:09:02.000Z
 ---

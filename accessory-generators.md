@@ -3,8 +3,7 @@ title: Accessory Generator
 description: A couple of quick tables for creating interesting trinkets in session 0
 published: true
 date: 2020-01-09T05:31:46.000Z
-tags:
-  - gm tools
+tags: gm tools
 editor: markdown
 dateCreated: 2020-01-09T05:31:46.000Z
 ---

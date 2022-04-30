@@ -3,8 +3,7 @@ title: Leader of the Pack
 description: A discussion about power and responsibility for people running games
 published: true
 date: 2019-12-23T08:58:56.000Z
-tags:
-  - palaver
+tags: palaver
 editor: markdown
 dateCreated: 2019-12-23T08:58:56.000Z
 ---

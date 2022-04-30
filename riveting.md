@@ -3,9 +3,7 @@ title: Riveting
 description: A bit of background on a Masks character I'll be playing
 published: true
 date: 2020-02-14T11:20:16.000Z
-tags:
-  - masks
-  - fiction
+tags: masks, fiction
 editor: markdown
 dateCreated: 2020-02-14T11:20:16.000Z
 ---

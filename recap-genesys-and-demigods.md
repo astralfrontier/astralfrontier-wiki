@@ -3,11 +3,7 @@ title: "Recap: Genesys and Demigods"
 description: Neon detectives and Greek demigods
 published: true
 date: 2019-11-24T07:16:04.000Z
-tags:
-  - recap
-  - pbta
-  - genesys
-  - demigods
+tags: recap, pbta, genesys, demigods
 editor: markdown
 dateCreated: 2019-11-24T07:16:04.000Z
 ---

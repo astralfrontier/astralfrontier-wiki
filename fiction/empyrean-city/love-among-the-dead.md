@@ -1,10 +1,11 @@
 ---
-date: 2015-09-04
 title: Love Among the Dead
-categories:
-  - Fiction
-tags:
-  - empyrean city
+description: Love Among the Dead
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: empyrean city, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 When the City's human population exceeds the capacity of the mist to provide for, certain citizens are extended an invitation: forego their corporeal existence and lock their minds away in storage. The City will resurrect them at some later time, when their skills and personalities are more suited to the times. In return, they'll be given a suitable economic and political consideration.

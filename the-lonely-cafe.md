@@ -3,9 +3,7 @@ title: The Lonely Cafe
 description: A Forged in the Dark game about the service industry
 published: true
 date: &a1 2020-04-27T00:02:39.000Z
-tags:
-  - game design diary
-  - fitd
+tags: game design diary, fitd
 editor: markdown
 dateCreated: *a1
 ---

@@ -3,9 +3,7 @@ title: "Flip-a-Card: Upbringing"
 description: The replacement for Origin cards
 published: true
 date: 2020-02-17T07:59:01.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-02-17T07:59:01.000Z
 ---

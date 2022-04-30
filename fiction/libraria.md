@@ -1,10 +1,11 @@
 ---
-date: 2015-09-04
 title: Libraria
-categories:
-  - Roleplaying
-tags:
-  - setting
+description: Libraria
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: setting, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 What if the world were literature made literal?

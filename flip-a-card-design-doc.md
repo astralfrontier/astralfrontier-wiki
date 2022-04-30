@@ -3,9 +3,7 @@ title: Flip-a-Card Design Doc
 description: A hack of a hack of a hack, coming back to life (maybe)
 published: true
 date: 2019-12-05T09:06:24.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2019-12-05T09:06:24.000Z
 ---

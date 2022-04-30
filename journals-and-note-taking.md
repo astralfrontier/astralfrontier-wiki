@@ -3,8 +3,7 @@ title: Journals and Note-taking
 description: Bullet journals, pens, stencils, and storage
 published: true
 date: 2019-11-14T08:12:32.000Z
-tags:
-  - bullet journal
+tags: bullet journal
 editor: markdown
 dateCreated: 2019-11-14T08:12:32.000Z
 ---

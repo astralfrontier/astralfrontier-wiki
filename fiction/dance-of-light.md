@@ -1,10 +1,11 @@
 ---
-date: 2016-02-11
 title: Dance of Light
-categories:
-  - Fiction
-tags:
-  - star wars
+description: Dance of Light
+published: true
+date: &a1 2016-02-11T00:00:00.000Z
+tags: star wars, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 I joined the Jedi Order at a young age.

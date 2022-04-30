@@ -1,12 +1,11 @@
 ---
-date: 2016/10/15
 title: Talispire
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - grand adventure
-  - talispire
+description: Talispire
+published: true
+date: 2016/10/15
+tags: grand adventure, talispire, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2016/10/15
 ---
 
 I wrote up a sample world for [Grand Adventure] called Talispire.

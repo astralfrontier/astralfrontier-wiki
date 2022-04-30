@@ -3,8 +3,7 @@ title: Life During Wartime
 description: A game I've been meaning to write for awhile
 published: true
 date: 2020-02-11T10:15:58.000Z
-tags:
-  - game design diary
+tags: game design diary
 editor: markdown
 dateCreated: 2020-02-11T10:15:58.000Z
 ---

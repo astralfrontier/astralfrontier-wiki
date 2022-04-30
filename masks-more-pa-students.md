@@ -3,8 +3,7 @@ title: "Masks: more PA students"
 description: Some late-comers to the PA party
 published: true
 date: 2020-01-31T10:23:57.000Z
-tags:
-  - masks
+tags: masks
 editor: markdown
 dateCreated: 2020-01-31T10:23:57.000Z
 ---

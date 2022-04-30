@@ -3,8 +3,7 @@ title: Procedurally Generating Aliens
 description: A method for randomly rolling scifi aliens, regardless of system
 published: true
 date: 2019-12-29T06:41:51.000Z
-tags:
-  - gm tools
+tags: gm tools
 editor: markdown
 dateCreated: 2019-12-29T06:41:51.000Z
 ---

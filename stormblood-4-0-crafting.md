@@ -1,11 +1,11 @@
 ---
 title: Stormblood 4.0 Crafting
-date: 2017-09-04 13:26:30
-tags:
-  - crafting
-  - ffxiv
-categories:
-  - MMORPG
+description: Stormblood 4.0 Crafting
+published: true
+date: &a1 2017-09-04T13:26:30.000Z
+tags: crafting, ffxiv, MMORPG
+editor: markdown
+dateCreated: *a1
 ---
 
 Now that FFXIV's Stormblood expansion has been with us for a few months,

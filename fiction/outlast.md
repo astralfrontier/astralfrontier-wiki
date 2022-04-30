@@ -1,10 +1,11 @@
 ---
-date: 2015-09-04
 title: Outlast
-categories:
-  - Fiction
-tags:
-  - religion
+description: Outlast
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: religion, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 My name's Macdonald, Charlie Macdonald. I am - or was - the general manager of Highlander Construction. You've seen our signs if you've been downtown in the last year. I take pride in the quality of our work. Employers expect, and pay for, the reliability of our product. Our unofficial motto is "our buildings will outlast your company".

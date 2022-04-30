@@ -3,11 +3,7 @@ title: "Quarto Decimo Novum: Talents Part 1"
 description: New and modified talents for the game
 published: true
 date: 2019-11-22T21:02:47.000Z
-tags:
-  - quarto decimo novum
-  - game design diary
-  - ffxiv
-  - genesys
+tags: quarto decimo novum, game design diary, ffxiv, genesys
 editor: markdown
 dateCreated: 2019-11-22T21:02:47.000Z
 ---

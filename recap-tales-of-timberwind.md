@@ -3,10 +3,7 @@ title: "Recap: Tales of Timberwind"
 description: Tales of Timberwind, an early-release game from the Baker clan
 published: true
 date: 2019-12-09T06:44:32.000Z
-tags:
-  - recap
-  - pbta
-  - tales of timberwind
+tags: recap, pbta, tales of timberwind
 editor: markdown
 dateCreated: 2019-12-09T06:44:32.000Z
 ---

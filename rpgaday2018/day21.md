@@ -1,12 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 21'
-date: 2018-08-21 23:56:12
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
-  - inept sorcerers
+title: "#RPGaDay2018 Day 21"
+description: "#RPGaDay2018 Day 21"
+published: true
+date: &a1 2018-08-21T23:56:12.000Z
+tags: rpg-a-day, inept sorcerers, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 21: Which dice mechanic appeals to you?**

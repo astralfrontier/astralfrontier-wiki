@@ -1,12 +1,11 @@
 ---
-date: 2016/10/29
 title: Grand Adventure Without Challenges
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - grand adventure
-icon: flask
+description: Grand Adventure Without Challenges
+published: true
+date: 2016/10/29
+tags: grand adventure, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2016/10/29
 ---
 
 Grand Adventure offers a structured storytelling experience through Challenges.

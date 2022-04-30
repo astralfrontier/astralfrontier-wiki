@@ -1,8 +1,11 @@
 ---
-date: 2015/10/04
 title: More Top Ten Super-Tropes (that I absolutely love)
-tags:
-  - supers
+description: More Top Ten Super-Tropes (that I absolutely love)
+published: true
+date: 2015/10/04
+tags: supers
+editor: markdown
+dateCreated: 2015/10/04
 ---
 
 After writing about the

@@ -3,11 +3,7 @@ title: "Recap: City of Mist and Demigods"
 description: A day of mystery and divinity
 published: true
 date: 2019-12-01T02:41:30.000Z
-tags:
-  - recap
-  - pbta
-  - city of mist
-  - demigods
+tags: recap, pbta, city of mist, demigods
 editor: markdown
 dateCreated: 2019-12-01T02:41:30.000Z
 ---

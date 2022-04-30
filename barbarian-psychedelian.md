@@ -1,11 +1,11 @@
 ---
 title: Barbarian Psychedelian
-date: 2018-11-28 01:05:10
-categories:
-  - Roleplaying
-tags:
-  - dndnext
-  - sunday dnd
+description: Barbarian Psychedelian
+published: true
+date: &a1 2018-11-28T01:05:10.000Z
+tags: dndnext, sunday dnd, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 So how effective is my [Emotionally Available Barbarian](/2018/11/19/the-emotionally-available-barbarian/) in combat, really? I don't know for real, so I decided to find out.

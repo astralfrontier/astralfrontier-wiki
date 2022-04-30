@@ -3,9 +3,7 @@ title: Iron Will
 description: How does Rivet fight?
 published: true
 date: 2020-02-19T09:24:15.000Z
-tags:
-  - masks
-  - fiction
+tags: masks, fiction
 editor: markdown
 dateCreated: 2020-02-19T09:24:15.000Z
 ---

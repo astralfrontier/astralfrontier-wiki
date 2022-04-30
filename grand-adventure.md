@@ -1,11 +1,11 @@
 ---
-date: 2015/08/22
 title: Grand Adventure
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - grand adventure
+description: Grand Adventure
+published: true
+date: 2015/08/22
+tags: grand adventure, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2015/08/22
 ---
 
 On the heels of [Inept Sorcerers] and [It Was There, Honest!], I thought

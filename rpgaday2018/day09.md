@@ -1,13 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 9'
-date: 2018-08-09 14:48:16
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
-  - masks
-  - world of warcraft
+title: "#RPGaDay2018 Day 9"
+description: "#RPGaDay2018 Day 9"
+published: true
+date: &a1 2018-08-09T14:48:16.000Z
+tags: rpg-a-day, masks, world of warcraft, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 9: How has a game surprised you?**

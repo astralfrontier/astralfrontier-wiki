@@ -3,8 +3,7 @@ title: Creating Masks NPCs
 description: A way of semi-randomly rolling up NPC classmates for a Masks game
 published: true
 date: &a1 2020-08-02T00:01:30.000Z
-tags:
-  - masks
+tags: masks
 editor: markdown
 dateCreated: *a1
 ---

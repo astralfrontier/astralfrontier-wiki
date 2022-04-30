@@ -1,12 +1,11 @@
 ---
-title: 'Recent Playtests: SV and CN'
-date: 2019-01-23 00:05:37
-categories:
-  - Roleplaying
-tags:
-  - playtest
-  - scum and villainy
-  - champions now
+title: "Recent Playtests: SV and CN"
+description: "Recent Playtests: SV and CN"
+published: true
+date: &a1 2019-01-23T00:05:37.000Z
+tags: playtest, scum and villainy, champions now, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 I've been trying out two new (for me) games lately: Scum and Villainy, and Champions Now. How's that been working out?

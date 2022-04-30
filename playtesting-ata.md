@@ -1,10 +1,11 @@
 ---
-date: 2016/06/27
 title: Playtesting Avert the Apocalypse
-tags:
-  - avert the apocalypse
-  - pbta
-  - scifi
+description: Playtesting Avert the Apocalypse
+published: true
+date: 2016/06/27
+tags: avert the apocalypse, pbta, scifi
+editor: markdown
+dateCreated: 2016/06/27
 ---
 
 I was sick yesterday so couldn't run, but two Sundays before that,

@@ -3,9 +3,7 @@ title: "Recap: Familiars of Terra"
 description: A birthday game in a Poke'mon-esque solarpunk world
 published: true
 date: 2019-12-08T07:59:07.000Z
-tags:
-  - recap
-  - familiars of terra
+tags: recap, familiars of terra
 editor: markdown
 dateCreated: 2019-12-08T07:59:07.000Z
 ---

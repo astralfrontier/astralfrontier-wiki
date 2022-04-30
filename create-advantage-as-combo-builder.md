@@ -1,10 +1,11 @@
 ---
-date: 2015-09-04
 title: Create Advantage as Combo Builder
-tags:
-  - fate
-categories:
-  - Roleplaying
+description: Create Advantage as Combo Builder
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: fate, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 I mentioned this to a few other people at the Fate meetup in Seattle, but I wanted to share more broadly. If there is anyone in your group that is doubtful about the uses of Create Advantage in combat, and prefers Attack and attrition, here are two ways to describe it.

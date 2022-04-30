@@ -1,8 +1,11 @@
 ---
-date: 2016/08/24
 title: Star Wars Headcanon
-tags:
-  - star wars
+description: Star Wars Headcanon
+published: true
+date: 2016/08/24
+tags: star wars
+editor: markdown
+dateCreated: 2016/08/24
 ---
 
 I like putting thought into the reasons why a setting must work a certain way.

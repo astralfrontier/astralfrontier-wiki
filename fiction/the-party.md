@@ -1,10 +1,11 @@
 ---
-date: 2016-05-19
 title: The Party
-categories:
-  - Fiction
-tags:
-  - time travel
+description: The Party
+published: true
+date: &a1 2016-05-19T00:00:00.000Z
+tags: time travel, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 Every year, I travel back in time to that day.

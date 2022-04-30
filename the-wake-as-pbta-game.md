@@ -3,9 +3,7 @@ title: The Wake as PBTA game
 description: Early thoughts on building a PBTA version of the Wake
 published: true
 date: 2020-02-06T08:17:27.000Z
-tags:
-  - the wake
-  - game design diary
+tags: the wake, game design diary
 editor: markdown
 dateCreated: 2020-02-06T08:17:27.000Z
 ---

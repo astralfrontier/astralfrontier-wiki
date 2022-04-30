@@ -1,12 +1,11 @@
 ---
-date: 2015/07/17
 title: Inept Sorcerers Playtest
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - inept sorcerers
-  - playtest
+description: Inept Sorcerers Playtest
+published: true
+date: 2015/07/17
+tags: inept sorcerers, playtest, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2015/07/17
 ---
 
 My friends Phil, Sherry, and Justin helped me playtest [Inept Sorcerers]. Phil recorded the session, and you can listen to it.

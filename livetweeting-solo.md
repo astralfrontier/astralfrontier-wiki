@@ -1,8 +1,11 @@
 ---
 title: Livetweeting Solo
-date: 2018-10-28 11:36:00
-tags:
-  - star wars
+description: Livetweeting Solo
+published: true
+date: &a1 2018-10-28T11:36:00.000Z
+tags: star wars
+editor: markdown
+dateCreated: *a1
 ---
 
 A long time ago, on a Blu-Ray far far away...

@@ -3,9 +3,7 @@ title: A Divine Comedy of Inept Sorcerers
 description: A sweet story about candy pirates and errant magic
 published: true
 date: 2019-11-21T07:02:01.000Z
-tags:
-  - recap
-  - inept sorcerers
+tags: recap, inept sorcerers
 editor: markdown
 dateCreated: 2019-11-21T07:02:01.000Z
 ---

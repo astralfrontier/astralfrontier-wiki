@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 24'
-date: 2018-08-24 14:31:16
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 24"
+description: "#RPGaDay2018 Day 24"
+published: true
+date: &a1 2018-08-24T14:31:16.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 Day 24: Which RPG do you think deserves greater recognition?

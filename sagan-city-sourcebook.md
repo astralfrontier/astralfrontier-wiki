@@ -1,9 +1,11 @@
 ---
-date: 2016/01/20
 title: Writing a Sagan City sourcebook
-tags:
-  - sssc
-  - supers
+description: Writing a Sagan City sourcebook
+published: true
+date: 2016/01/20
+tags: sssc, supers
+editor: markdown
+dateCreated: 2016/01/20
 ---
 
 I'm running a play-by post game, called

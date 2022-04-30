@@ -1,8 +1,11 @@
 ---
-date: 2016/04/16
 title: Deconstructing Doc Smith, Part 2
-tags:
-  - scifi
+description: Deconstructing Doc Smith, Part 2
+published: true
+date: 2016/04/16
+tags: scifi
+editor: markdown
+dateCreated: 2016/04/16
 ---
 
 This is a continuation of part 1,

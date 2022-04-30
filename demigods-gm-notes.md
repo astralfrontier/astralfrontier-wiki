@@ -3,9 +3,7 @@ title: "Demigods: GM notes"
 description: How I ran Demigods, including prep, and lessons learned
 published: true
 date: 2020-01-28T07:16:51.000Z
-tags:
-  - palaver
-  - demigods
+tags: palaver, demigods
 editor: markdown
 dateCreated: 2020-01-28T07:16:51.000Z
 ---

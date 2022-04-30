@@ -1,8 +1,11 @@
 ---
-date: 2015-09-04
 title: Vessels
-tags:
-  - vessels
+description: Vessels
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: vessels
+editor: markdown
+dateCreated: *a1
 ---
 
 This is a game about the power of ideas and groups.

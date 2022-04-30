@@ -4,10 +4,7 @@ description: How to build encounters more interesting than "hit them until their
   hit points fall out"
 published: true
 date: 2019-12-15T11:03:05.000Z
-tags:
-  - game design diary
-  - superhero
-  - p5
+tags: game design diary, superhero, p5
 editor: markdown
 dateCreated: 2019-12-15T11:03:05.000Z
 ---

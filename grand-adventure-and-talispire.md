@@ -3,10 +3,7 @@ title: Grand Adventure and Talispire
 description: What's the status of an old project?
 published: true
 date: 2019-12-04T11:06:43.000Z
-tags:
-  - game design diary
-  - grand adventure
-  - talispire
+tags: game design diary, grand adventure, talispire
 editor: markdown
 dateCreated: 2019-12-04T11:06:43.000Z
 ---

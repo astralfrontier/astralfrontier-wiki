@@ -1,13 +1,11 @@
 ---
-date: 2016/06/02
 title: Staying Busy
-tags:
-  - avert the apocalypse
-  - fae
-  - ffxiv
-  - fusion au
-  - helping hand
-  - pbta
+description: Staying Busy
+published: true
+date: 2016/06/02
+tags: avert the apocalypse, fae, ffxiv, fusion au, helping hand, pbta
+editor: markdown
+dateCreated: 2016/06/02
 ---
 
 The last several weeks have been pretty busy.

@@ -1,9 +1,11 @@
 ---
-date: 2016/10/05
 title: Invoking For the Enemy
-tags:
-  - fate
-icon: flask
+description: Invoking For the Enemy
+published: true
+date: 2016/10/05
+tags: fate
+editor: markdown
+dateCreated: 2016/10/05
 ---
 
 Recently my Tuesday Star Wars GM wrote an

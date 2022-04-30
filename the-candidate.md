@@ -3,8 +3,7 @@ title: The Candidate
 description: A plan to produce a political hack of "For the Queen"
 published: true
 date: 2020-02-21T02:26:11.000Z
-tags:
-  - game design diary
+tags: game design diary
 editor: markdown
 dateCreated: 2020-02-21T02:26:11.000Z
 ---

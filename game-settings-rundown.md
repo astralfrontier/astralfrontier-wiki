@@ -3,8 +3,7 @@ title: Game Settings Rundown
 description: What are my stock settings for gaming and fiction?
 published: true
 date: 2019-12-02T08:38:00.000Z
-tags:
-  - game design diary
+tags: game design diary
 editor: markdown
 dateCreated: 2019-12-02T08:38:00.000Z
 ---

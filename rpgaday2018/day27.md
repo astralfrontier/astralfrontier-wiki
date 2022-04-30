@@ -1,12 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 27'
-date: 2018-08-27 13:12:42
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
-  - masks
+title: "#RPGaDay2018 Day 27"
+description: "#RPGaDay2018 Day 27"
+published: true
+date: &a1 2018-08-27T13:12:42.000Z
+tags: rpg-a-day, masks, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 27: Share a great stream/actual play**

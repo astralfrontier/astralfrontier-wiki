@@ -1,10 +1,11 @@
 ---
-date: 2016-08-19
 title: Duo
-categories:
-  - Fiction
-tags:
-  - religion
+description: Duo
+published: true
+date: &a1 2016-08-19T00:00:00.000Z
+tags: religion, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 Forgive me, Father.

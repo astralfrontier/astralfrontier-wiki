@@ -1,8 +1,11 @@
 ---
-date: 2016/11/02
 title: The Princess Escort
-tags:
-  - talispire
+description: The Princess Escort
+published: true
+date: 2016/11/02
+tags: talispire
+editor: markdown
+dateCreated: 2016/11/02
 ---
 
 I had this random idea for a short story, about a grizzled mercenary

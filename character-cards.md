@@ -3,10 +3,7 @@ title: Character Cards
 description: A simple tool for focusing attention on characters, not plots, as a GM
 published: true
 date: 2019-11-13T02:03:17.000Z
-tags:
-  - game design diary
-  - gm tools
-  - character cards
+tags: game design diary, gm tools, character cards
 editor: markdown
 dateCreated: 2019-11-13T02:03:17.000Z
 ---

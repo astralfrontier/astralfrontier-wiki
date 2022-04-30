@@ -1,13 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 11'
-date: 2018-08-12 02:17:49
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
-  - masks
-  - link
+title: "#RPGaDay2018 Day 11"
+description: "#RPGaDay2018 Day 11"
+published: true
+date: &a1 2018-08-12T02:17:49.000Z
+tags: rpg-a-day, masks, link, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 11: Wildest Character Name**

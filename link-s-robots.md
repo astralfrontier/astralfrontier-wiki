@@ -1,12 +1,11 @@
 ---
 title: Link's Robots
-date: 2017-11-16 23:55:16
-categories:
-  - Roleplaying
-tags:
-  - masks
-  - supers
-  - link
+description: Link's Robots
+published: true
+date: &a1 2017-11-16T23:55:16.000Z
+tags: masks, supers, link, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 This is a run-down of the current and potential robots [Link](/2017/08/07/link/) allies with.

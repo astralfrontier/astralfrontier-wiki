@@ -3,9 +3,7 @@ title: "Flip-a-Card: Combat"
 description: "Flip-a-Card: Combat"
 published: true
 date: 2019-12-12T11:06:21.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2019-12-12T11:06:21.000Z
 ---

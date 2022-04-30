@@ -3,9 +3,7 @@ title: "Recap: NDA 2050 session"
 description: The Neon Detective Agency 2050 session summary
 published: true
 date: 2019-11-26T08:14:51.000Z
-tags:
-  - recap
-  - genesys
+tags: recap, genesys
 editor: markdown
 dateCreated: 2019-11-26T08:14:51.000Z
 ---

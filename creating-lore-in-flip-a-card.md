@@ -3,9 +3,7 @@ title: Creating Lore in Flip-a-Card
 description: A fast system for world-building.
 published: true
 date: &a1 2020-08-18T03:36:31.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: *a1
 ---

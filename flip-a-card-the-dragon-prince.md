@@ -3,9 +3,7 @@ title: "Flip-a-card: the Dragon Prince"
 description: The inspiration for campaign issues
 published: true
 date: &a1 2020-04-20T09:59:33.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: *a1
 ---

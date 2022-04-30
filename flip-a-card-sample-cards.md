@@ -3,9 +3,7 @@ title: "Flip-a-Card: Sample Cards"
 description: How to write cards to build your own RPG world
 published: true
 date: 2019-12-07T08:34:53.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2019-12-07T08:34:53.000Z
 ---

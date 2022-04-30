@@ -3,9 +3,7 @@ title: "Flip-a-Card: Origins"
 description: An explanation of culture vs. heritage vs. species in the game
 published: true
 date: 2020-01-08T05:43:54.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-08T05:43:54.000Z
 ---

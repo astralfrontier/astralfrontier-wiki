@@ -3,11 +3,7 @@ title: "Quarto Decimo Novum: Careers"
 description: Character careers for adventurers of all kinds
 published: true
 date: 2019-11-20T02:23:22.000Z
-tags:
-  - quarto decimo novum
-  - game design diary
-  - ffxiv
-  - genesys
+tags: quarto decimo novum, game design diary, ffxiv, genesys
 editor: markdown
 dateCreated: 2019-11-20T02:23:22.000Z
 ---

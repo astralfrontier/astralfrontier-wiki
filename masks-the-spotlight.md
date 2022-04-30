@@ -3,10 +3,7 @@ title: "Masks: the Spotlight"
 description: How writing Silverline has helped me learn about the spotlight
 published: true
 date: 2019-12-13T07:01:15.000Z
-tags:
-  - silverline
-  - pbta
-  - masks
+tags: silverline, pbta, masks
 editor: markdown
 dateCreated: 2019-12-13T07:01:15.000Z
 ---

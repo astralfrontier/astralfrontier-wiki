@@ -3,10 +3,7 @@ title: "Flip-a-card: Twists"
 description: Reusing a Grand Adventure idea.
 published: true
 date: &a1 2020-04-23T07:17:48.000Z
-tags:
-  - flip-a-card
-  - grand adventure
-  - game design diary
+tags: flip-a-card, grand adventure, game design diary
 editor: markdown
 dateCreated: *a1
 ---

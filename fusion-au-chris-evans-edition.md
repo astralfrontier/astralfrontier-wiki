@@ -1,15 +1,12 @@
 ---
 title: Fusion AU - Chris Evans edition
-date: 2017-10-08 21:43:57
-tags:
-  - avengers
-  - chris evans
-  - fantastic four
-  - snowpiercer
-  - sunshine
-categories:
-  - Fiction
-  - Fusion AU
+description: Fusion AU - Chris Evans edition
+published: true
+date: &a1 2017-10-08T21:43:57.000Z
+tags: avengers, chris evans, fantastic four, snowpiercer, sunshine, Fiction,
+  Fusion AU
+editor: markdown
+dateCreated: *a1
 ---
 
 Unlike other broad Fusion AUs, this is a small one with a simple premise:

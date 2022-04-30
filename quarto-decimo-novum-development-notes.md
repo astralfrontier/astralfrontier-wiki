@@ -3,11 +3,7 @@ title: "Quarto Decimo Novum: Development Notes"
 description: Brief notes on upcoming system design, and a pause for thought
 published: true
 date: 2019-11-22T00:00:03.000Z
-tags:
-  - quarto decimo novum
-  - game design diary
-  - ffxiv
-  - genesys
+tags: quarto decimo novum, game design diary, ffxiv, genesys
 editor: markdown
 dateCreated: 2019-11-22T00:00:03.000Z
 ---

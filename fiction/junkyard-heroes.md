@@ -1,10 +1,11 @@
 ---
-date: 2015-06-22
 title: Junkyard Heroes
-categories:
-  - Roleplaying
-tags:
-  - supers
+description: Junkyard Heroes
+published: true
+date: &a1 2015-06-22T00:00:00.000Z
+tags: supers, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 This is a roleplaying game I ran in 2009. It centered around a group of friends in New York

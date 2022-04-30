@@ -1,11 +1,11 @@
 ---
 title: Creating Earthdawn 1e characters
-date: 2019-02-18 19:15:32
-categories:
-  - Roleplaying
-tags:
-  - characters
-  - earthdawn
+description: Creating Earthdawn 1e characters
+published: true
+date: &a1 2019-02-18T19:15:32.000Z
+tags: characters, earthdawn, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 I might be playing in an Earthdawn 1st Edition game soon. To help other people in that game with character creation, I'm creating a sample PC and talking about the whys and hows of it.

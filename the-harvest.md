@@ -1,10 +1,11 @@
 ---
-date: 2016/12/17
 title: The Harvest
-categories:
-  - Fiction
-tags:
-  - helping hand
+description: The Harvest
+published: true
+date: 2016/12/17
+tags: helping hand, Fiction
+editor: markdown
+dateCreated: 2016/12/17
 ---
 
 It was the summer I turned 17 when Shannon got taken by the UFO.

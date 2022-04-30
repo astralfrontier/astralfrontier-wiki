@@ -3,8 +3,7 @@ title: Witch+Craft
 description: Putting the new domestic-magic book through a couple quick paces
 published: true
 date: 2020-03-01T07:44:34.000Z
-tags:
-  - dungeons and dragons
+tags: dungeons and dragons
 editor: markdown
 dateCreated: 2020-03-01T07:44:34.000Z
 ---

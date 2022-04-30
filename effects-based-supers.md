@@ -1,8 +1,11 @@
 ---
-date: 2015/08/03
 title: Effects-Based Superhero Games
-tags:
-  - supers
+description: Effects-Based Superhero Games
+published: true
+date: 2015/08/03
+tags: supers
+editor: markdown
+dateCreated: 2015/08/03
 ---
 
 We often talk about "effects-based" superhero RPG rules.

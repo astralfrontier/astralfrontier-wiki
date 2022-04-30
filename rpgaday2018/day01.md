@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 1'
-date: 2018-08-02 02:33:39
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 1"
+description: "#RPGaDay2018 Day 1"
+published: true
+date: &a1 2018-08-02T02:33:39.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 I usually don't do these. I'll give it a try this time.

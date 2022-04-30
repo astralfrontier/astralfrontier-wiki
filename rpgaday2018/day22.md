@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 22'
-date: 2018-08-22 23:36:06
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 22"
+description: "#RPGaDay2018 Day 22"
+published: true
+date: &a1 2018-08-22T23:36:06.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 22: Which non-dice system appeals to you?**

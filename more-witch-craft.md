@@ -3,8 +3,7 @@ title: More Witch+Craft
 description: Ways to determine base materials in Witch+Craft, and how to team up
 published: true
 date: 2020-03-02T07:26:12.000Z
-tags:
-  - dungeons and dragons
+tags: dungeons and dragons
 editor: markdown
 dateCreated: 2020-03-02T07:26:12.000Z
 ---

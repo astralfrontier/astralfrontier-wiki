@@ -3,9 +3,7 @@ title: Creating Faces in Flip-a-Card
 description: A way to tie organizations and issues back to people
 published: true
 date: &a1 2020-07-16T07:26:09.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: *a1
 ---

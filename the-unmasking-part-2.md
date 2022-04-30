@@ -1,11 +1,11 @@
 ---
 title: The Unmasking part 2
-date: 2018-11-26 23:21:27
-categories:
-  - Roleplaying
-tags:
-  - masks
-  - supers
+description: The Unmasking part 2
+published: true
+date: &a1 2018-11-26T23:21:27.000Z
+tags: masks, supers, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 I'd written about the Monday Masks game ending [earlier](/2018/10/30/the-unmasking/). Tonight, we saw the penultimate episode. And I'm pretty happy about how things are wrapping up. Why is that?

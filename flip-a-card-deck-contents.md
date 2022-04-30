@@ -3,9 +3,7 @@ title: "Flip-a-Card: Deck Contents"
 description: What goes into a typical flip-a-card game deck?
 published: true
 date: 2019-12-20T21:46:49.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2019-12-20T21:46:49.000Z
 ---

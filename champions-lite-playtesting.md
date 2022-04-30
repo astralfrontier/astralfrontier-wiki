@@ -3,9 +3,7 @@ title: Champions Lite Playtesting
 description: How did the first pass at the game turn out? Honk if you love playtesting.
 published: true
 date: 2020-02-18T05:22:52.000Z
-tags:
-  - superhero
-  - game design diary
+tags: superhero, game design diary
 editor: markdown
 dateCreated: 2020-02-18T05:22:52.000Z
 ---

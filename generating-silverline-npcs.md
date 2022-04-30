@@ -3,9 +3,7 @@ title: Generating Silverline NPCs
 description: Ways to randomly generate NPCs for Masks
 published: true
 date: 2019-12-27T19:14:19.000Z
-tags:
-  - silverline
-  - masks
+tags: silverline, masks
 editor: markdown
 dateCreated: 2019-12-27T19:14:19.000Z
 ---

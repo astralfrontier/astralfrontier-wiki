@@ -1,8 +1,11 @@
 ---
 title: Writing Resources
-date: 2017-07-14 16:28:34
-tags:
-  - pinned
+description: Writing Resources
+published: true
+date: &a1 2017-07-14T16:28:34.000Z
+tags: pinned
+editor: markdown
+dateCreated: *a1
 ---
 
 Here's a big master list of resources for people doing creative writing.

@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 10'
-date: 2018-08-10 14:28:29
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 10"
+description: "#RPGaDay2018 Day 10"
+published: true
+date: &a1 2018-08-10T14:28:29.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 10: How has gaming changed you?**

@@ -1,12 +1,11 @@
 ---
 title: Link's Technology
-date: 2017-09-05 20:38:57
-categories:
-  - Roleplaying
-tags:
-  - masks
-  - supers
-  - link
+description: Link's Technology
+published: true
+date: &a1 2017-09-05T20:38:57.000Z
+tags: masks, supers, link, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 This is a run-down of the battlesuit and technology [Link](/2017/08/07/link/) uses.

@@ -3,8 +3,7 @@ title: Pass-Fail-Complicate Cards
 description: A quick mechanic for generating nuanced outcomes from playing cards
 published: true
 date: 2020-02-23T23:40:14.000Z
-tags:
-  - game design diary
+tags: game design diary
 editor: markdown
 dateCreated: 2020-02-23T23:40:14.000Z
 ---

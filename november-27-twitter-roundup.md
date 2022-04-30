@@ -1,10 +1,9 @@
 ---
 title: November 27 Twitter roundup
 description: Interesting posts from social media
-published: false
+published: true
 date: 2019-11-28T22:16:15.000Z
-tags:
-  - twitter
+tags: twitter
 editor: markdown
 dateCreated: 2019-11-28T22:16:15.000Z
 ---

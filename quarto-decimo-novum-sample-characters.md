@@ -3,11 +3,7 @@ title: "Quarto Decimo Novum: Sample Characters"
 description: Sample characters using the provided rules
 published: true
 date: 2019-12-05T20:10:05.000Z
-tags:
-  - quarto decimo novum
-  - game design diary
-  - ffxiv
-  - genesys
+tags: quarto decimo novum, game design diary, ffxiv, genesys
 editor: markdown
 dateCreated: 2019-12-05T20:10:05.000Z
 ---

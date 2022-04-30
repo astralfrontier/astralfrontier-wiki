@@ -3,8 +3,7 @@ title: RPG Prompts as Social Education
 description: What can games do to teach us about living?
 published: true
 date: &a1 2020-10-08T02:35:40.000Z
-tags:
-  - game design diary
+tags: game design diary
 editor: markdown
 dateCreated: *a1
 ---

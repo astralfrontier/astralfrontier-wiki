@@ -1,12 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 19'
-date: 2018-08-19 13:41:46
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
-  - music
+title: "#RPGaDay2018 Day 19"
+description: "#RPGaDay2018 Day 19"
+published: true
+date: &a1 2018-08-19T13:41:46.000Z
+tags: rpg-a-day, music, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 19: What music enhances your game?**

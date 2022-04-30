@@ -3,9 +3,7 @@ title: Flip-a-Card Philosophy
 description: What are the design principles of flip-a-card?
 published: true
 date: &a1 2020-06-24T08:41:26.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: *a1
 ---

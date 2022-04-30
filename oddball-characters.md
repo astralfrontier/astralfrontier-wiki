@@ -1,9 +1,11 @@
 ---
-date: 2016/04/22
 title: Oddball Characters
-tags:
-  - characters
-  - supers
+description: Oddball Characters
+published: true
+date: 2016/04/22
+tags: characters, supers
+editor: markdown
+dateCreated: 2016/04/22
 ---
 
 I'm a fan of odd or unusual player characters.

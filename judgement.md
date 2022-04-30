@@ -1,9 +1,11 @@
 ---
-date: 2017/01/31
 title: Judgement
-tags:
-  - fantasy
-  - body swap
+description: Judgement
+published: true
+date: 2017/01/31
+tags: fantasy, body swap
+editor: markdown
+dateCreated: 2017/01/31
 ---
 
 Body-swaps in fiction are interesting because they shake up social dynamics.

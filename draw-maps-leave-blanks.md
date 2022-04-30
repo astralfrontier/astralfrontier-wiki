@@ -1,11 +1,11 @@
 ---
-date: 2015/12/22
 title: Draw Maps, Leave Blanks for Supers
-categories:
-  - Roleplaying
-tags:
-  - sssc
-  - supers
+description: Draw Maps, Leave Blanks for Supers
+published: true
+date: 2015/12/22
+tags: sssc, supers, Roleplaying
+editor: markdown
+dateCreated: 2015/12/22
 ---
 
 This is more discussion about the Super-Sheriffs of Sagan City game,

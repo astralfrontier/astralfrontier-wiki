@@ -1,10 +1,11 @@
 ---
-date: 2015/09/01
 title: PAX Playtesting for Inept Sorcerers
-tags:
-  - convention
-  - inept sorcerers
-  - playtest
+description: PAX Playtesting for Inept Sorcerers
+published: true
+date: 2015/09/01
+tags: convention, inept sorcerers, playtest
+editor: markdown
+dateCreated: 2015/09/01
 ---
 
 I attended PAX Prime's [Games on Demand] over the weekend, and both ran

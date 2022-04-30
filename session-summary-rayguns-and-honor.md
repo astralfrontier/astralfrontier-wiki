@@ -3,9 +3,7 @@ title: "Session Summary: Ray-Guns and Honor"
 description: Sir Bedevere, Squire, Dart, and Simon explore a mysterious high-tech dungeon
 published: true
 date: 2019-11-11T19:51:06.000Z
-tags:
-  - recap
-  - genesys
+tags: recap, genesys
 editor: markdown
 dateCreated: 2019-11-11T19:51:06.000Z
 ---

@@ -1,14 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 30'
-date: 2018-08-30 03:54:35
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
-  - masks
-  - link
-  - radiance
+title: "#RPGaDay2018 Day 30"
+description: "#RPGaDay2018 Day 30"
+published: true
+date: &a1 2018-08-30T03:54:35.000Z
+tags: rpg-a-day, masks, link, radiance, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 30: Share something you learned about playing your character**

@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 26'
-date: 2018-08-26 13:53:56
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 26"
+description: "#RPGaDay2018 Day 26"
+published: true
+date: &a1 2018-08-26T13:53:56.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 26: Your gaming ambition for the next year**

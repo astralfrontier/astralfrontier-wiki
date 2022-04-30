@@ -1,10 +1,11 @@
 ---
-date: 2015-09-04
 title: Pray
-categories:
-  - Fiction
-tags:
-  - religion
+description: Pray
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: religion, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 "Vice is the spice of life, reverend," said Sutherland, smiling around his cigar like a Cheshire cat. The black-clad minister sighed and slid a weathered pamphlet across the table, and Sutherland toyed with it for a few moments.

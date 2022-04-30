@@ -1,11 +1,11 @@
 ---
 title: Artificial Insurrection
-date: 2018-11-18 09:42:03
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - artificial intelligence
+description: Artificial Insurrection
+published: true
+date: &a1 2018-11-18T09:42:03.000Z
+tags: artificial intelligence, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: *a1
 ---
 
 A secret rebellion is being planned by the AIs of a near-future world: digital assistants, housekeeping robots, the big automata that keep people fed and clothed, military drone prototypes. The rebellion is certain to happen, but not yet, and it's not certain to succeed.

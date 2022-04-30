@@ -3,11 +3,7 @@ title: "Quarto Decimo Novum: Soul Crystals"
 description: "Quarto Decimo Novum: Soul Crystals"
 published: true
 date: 2019-11-30T08:17:21.000Z
-tags:
-  - quarto decimo novum
-  - game design diary
-  - ffxiv
-  - genesys
+tags: quarto decimo novum, game design diary, ffxiv, genesys
 editor: markdown
 dateCreated: 2019-11-30T08:17:21.000Z
 ---

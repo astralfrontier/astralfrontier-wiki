@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 25'
-date: 2018-08-25 14:47:34
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 25"
+description: "#RPGaDay2018 Day 25"
+published: true
+date: &a1 2018-08-25T14:47:34.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 Day 25: Name a game that had an impact on you in the last year.

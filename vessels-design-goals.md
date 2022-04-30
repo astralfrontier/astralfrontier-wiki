@@ -1,8 +1,11 @@
 ---
-date: 2015/06/06
 title: Vessels - Design Goals
-tags:
-  - vessels
+description: Vessels - Design Goals
+published: true
+date: 2015/06/06
+tags: vessels
+editor: markdown
+dateCreated: 2015/06/06
 ---
 
 What do I want out of this game? While this isn't an AW/DW game, that design vocabulary is useful and I am using it here.

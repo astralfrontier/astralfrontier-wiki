@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 29'
-date: 2018-08-29 18:49:16
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 29"
+description: "#RPGaDay2018 Day 29"
+published: true
+date: &a1 2018-08-29T18:49:16.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 29: Share a friendship you have because of RPGs**

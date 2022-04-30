@@ -3,9 +3,7 @@ title: "Flip-a-Card: Homepage"
 description: Cards are now being published to their own site
 published: true
 date: 2020-01-01T08:20:53.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-01T08:20:53.000Z
 ---

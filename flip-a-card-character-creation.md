@@ -3,9 +3,7 @@ title: "Flip-a-Card: Character Creation"
 description: How could character creation work in a new flip-a-card system?
 published: true
 date: 2019-12-11T09:36:11.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2019-12-11T09:36:11.000Z
 ---

@@ -1,11 +1,11 @@
 ---
 title: The Emotionally Available Barbarian
-date: 2018-11-19 12:59:24
-categories:
-  - Roleplaying
-tags:
-  - dndnext
-  - sunday dnd
+description: The Emotionally Available Barbarian
+published: true
+date: &a1 2018-11-19T12:59:24.000Z
+tags: dndnext, sunday dnd, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 Today I'm going to tell you about my greataxe-wielding half-orc barbarian, and talk about tropes.

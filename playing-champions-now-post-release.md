@@ -3,8 +3,7 @@ title: Playing Champions Now post-release
 description: What is this new spin on classic Champions?
 published: true
 date: &a1 2020-06-10T20:52:31.000Z
-tags:
-  - champions now
+tags: champions now
 editor: markdown
 dateCreated: *a1
 ---

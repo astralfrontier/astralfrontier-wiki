@@ -1,11 +1,11 @@
 ---
-date: 2015-06-22
 title: FUTILE OCTAVE
-categories:
-  - Roleplaying
-tags:
-  - horror
-  - cthulhutech
+description: FUTILE OCTAVE
+published: true
+date: &a1 2015-06-22T00:00:00.000Z
+tags: horror, cthulhutech, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 FUTILE OCTAVE is a horror roleplaying game set in the "CthulhuTech" universe,

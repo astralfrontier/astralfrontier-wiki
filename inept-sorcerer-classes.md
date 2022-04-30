@@ -1,11 +1,11 @@
 ---
-date: 2015/07/10
 title: Inept Sorcerer Classes
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - inept sorcerers
+description: Inept Sorcerer Classes
+published: true
+date: 2015/07/10
+tags: inept sorcerers, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2015/07/10
 ---
 
 [Inept Sorcerers](http://peppermile.com/inept-sorcerers.html) doesn't say anything

@@ -1,10 +1,11 @@
 ---
-date: 2017/03/22
 title: What's Your Story?
-categories:
-  - Roleplaying
-tags:
-  - the wake
+description: What's Your Story?
+published: true
+date: 2017/03/22
+tags: the wake, Roleplaying
+editor: markdown
+dateCreated: 2017/03/22
 ---
 
 "What's your story?"

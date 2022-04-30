@@ -3,9 +3,7 @@ title: "Flip-a-Card: Challenges"
 description: Early thoughts on challenge cards
 published: true
 date: 2020-01-16T06:08:23.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-16T06:08:23.000Z
 ---

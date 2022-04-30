@@ -1,11 +1,11 @@
 ---
-date: 2016/01/29
 title: Grand Adventure Optional Rules
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - grand adventure
+description: Grand Adventure Optional Rules
+published: true
+date: 2016/01/29
+tags: grand adventure, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2016/01/29
 ---
 
 A thread about damage got me thinking about a few optional rules for Grand Adventure:

@@ -3,9 +3,7 @@ title: "Flip-a-Card: Oracles"
 description: Ideas for new cards to keep the game running
 published: true
 date: 2020-02-07T11:03:11.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-02-07T11:03:11.000Z
 ---

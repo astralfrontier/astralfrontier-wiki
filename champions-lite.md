@@ -3,9 +3,7 @@ title: Champions Lite
 description: Some ideas about a combat system for Champions Lite
 published: true
 date: 2020-02-12T09:41:17.000Z
-tags:
-  - superhero
-  - game design diary
+tags: superhero, game design diary
 editor: markdown
 dateCreated: 2020-02-12T09:41:17.000Z
 ---

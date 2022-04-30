@@ -1,9 +1,11 @@
 ---
-date: 2016/03/29
 title: Batman v. Superman
-tags:
-  - comics
-  - supers
+description: Batman v. Superman
+published: true
+date: 2016/03/29
+tags: comics, supers
+editor: markdown
+dateCreated: 2016/03/29
 ---
 
 I haven't seen "Batman v. Superman" and I probably won't see it in theaters.

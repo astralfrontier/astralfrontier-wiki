@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 23'
-date: 2018-08-23 03:18:48
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 23"
+description: "#RPGaDay2018 Day 23"
+published: true
+date: &a1 2018-08-23T03:18:48.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 23: Which game do you hope to play again?**

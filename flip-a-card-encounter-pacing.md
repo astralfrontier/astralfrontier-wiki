@@ -3,9 +3,7 @@ title: "Flip-a-Card: Encounter Pacing"
 description: When is the fight over with?
 published: true
 date: &a1 2020-05-09T06:46:33.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: *a1
 ---

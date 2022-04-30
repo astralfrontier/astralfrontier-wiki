@@ -1,12 +1,11 @@
 ---
 title: Return of the Son of Bullet Journal
-date: 2018-11-19 23:37:22
-categories:
-  - Roleplaying
-tags:
-  - sunday dnd
-  - dndnext
-  - bullet journal
+description: Return of the Son of Bullet Journal
+published: true
+date: &a1 2018-11-19T23:37:22.000Z
+tags: sunday dnd, dndnext, bullet journal, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 Similar to the [other journal](/2018/11/06/wednesday-d-d-bullet-journal/) I started, here's one for the D&D game running on alternating Sundays, in which I play the character described [here](/2018/11/19/the-emotionally-available-barbarian/).

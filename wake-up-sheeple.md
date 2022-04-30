@@ -1,10 +1,11 @@
 ---
-date: 2016/01/10
 title: Wake Up Sheeple
-categories:
-  - Roleplaying
-tags:
-  - storygames
+description: Wake Up Sheeple
+published: true
+date: 2016/01/10
+tags: storygames, Roleplaying
+editor: markdown
+dateCreated: 2016/01/10
 ---
 
 I think I have some sort of mental block about "story games", like

@@ -3,9 +3,7 @@ title: "Flip-a-Card: Scene Framing"
 description: Assorted thoughts about how to structure scenes.
 published: true
 date: &a1 2020-04-29T22:34:29.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: *a1
 ---

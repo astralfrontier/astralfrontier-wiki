@@ -3,9 +3,7 @@ title: "Flip-a-Card: Revised Encounters"
 description: How to create encounters, going forward
 published: true
 date: 2020-03-15T06:11:25.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-03-15T06:11:25.000Z
 ---

@@ -3,8 +3,7 @@ title: What's an indie game?
 description: Look for flames in the comments
 published: true
 date: 2020-01-19T05:20:51.000Z
-tags:
-  - palaver
+tags: palaver
 editor: markdown
 dateCreated: 2020-01-19T05:20:51.000Z
 ---

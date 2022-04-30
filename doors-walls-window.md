@@ -1,11 +1,11 @@
 ---
-date: 2017/05/01
 title: Doors, Walls, Windows
-tags:
-  - pinned
-categories:
-  - Roleplaying
-  - Game Design Diary
+description: Doors, Walls, Windows
+published: true
+date: 2017/05/01
+tags: pinned, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2017/05/01
 ---
 
 In role-playing games, the GM describes challenges and offers opportunities.

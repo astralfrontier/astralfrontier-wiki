@@ -3,11 +3,7 @@ title: "Quarto Decimo Novum: Job Weapons"
 description: What are the iconic weapons and armor of the various classes and jobs?
 published: true
 date: 2019-12-15T03:37:27.000Z
-tags:
-  - quarto decimo novum
-  - game design diary
-  - ffxiv
-  - genesys
+tags: quarto decimo novum, game design diary, ffxiv, genesys
 editor: markdown
 dateCreated: 2019-12-15T03:37:27.000Z
 ---

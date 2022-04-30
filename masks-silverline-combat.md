@@ -3,9 +3,7 @@ title: "Masks: Silverline Combat"
 description: How staging combat in a solo game is working out
 published: true
 date: 2019-12-18T10:41:34.000Z
-tags:
-  - silverline
-  - masks
+tags: silverline, masks
 editor: markdown
 dateCreated: 2019-12-18T10:41:34.000Z
 ---

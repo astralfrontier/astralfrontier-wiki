@@ -3,8 +3,7 @@ title: In Defense of Cutscenes
 description: Why should players write up shared side activities with each other?
 published: true
 date: 2019-11-14T20:14:24.000Z
-tags:
-  - palaver
+tags: palaver
 editor: markdown
 dateCreated: 2019-11-14T20:14:24.000Z
 ---

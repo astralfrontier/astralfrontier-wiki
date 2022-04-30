@@ -1,10 +1,11 @@
 ---
-date: 2015-09-04
 title: The Spire of Man
-categories:
-  - Fiction
-tags:
-  - empyrean city
+description: The Spire of Man
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: empyrean city, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 The City's inhabitants are numerous. Among them, living humans are perhaps the most acceptable minority.

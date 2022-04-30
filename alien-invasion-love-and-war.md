@@ -1,8 +1,11 @@
 ---
-title: 'Alien invasion: love and war'
-date: 2017-07-03 17:39:23
-tags:
-  - scifi
+title: "Alien invasion: love and war"
+description: "Alien invasion: love and war"
+published: true
+date: &a1 2017-07-03T17:39:23.000Z
+tags: scifi
+editor: markdown
+dateCreated: *a1
 ---
 
 Human culture had prepped the public for the idea of a hostile alien invasion.

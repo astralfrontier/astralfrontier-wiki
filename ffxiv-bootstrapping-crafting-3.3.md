@@ -1,11 +1,11 @@
 ---
-date: 2016-08-06
 title: Bootstrapping your crafting in FFXIV patch 3.3
-tags:
-  - crafting
-  - ffxiv
-categories:
-  - MMORPG
+description: Bootstrapping your crafting in FFXIV patch 3.3
+published: true
+date: &a1 2016-08-06T00:00:00.000Z
+tags: crafting, ffxiv, MMORPG
+editor: markdown
+dateCreated: *a1
 ---
 
 I had to piece together the following steps, so I wanted to share them

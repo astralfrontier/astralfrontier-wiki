@@ -1,12 +1,11 @@
 ---
-date: 2016/12/06
 title: Grand Adventure and Damage
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - grand adventure
-icon: flask
+description: Grand Adventure and Damage
+published: true
+date: 2016/12/06
+tags: grand adventure, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2016/12/06
 ---
 
 A couple of posts called "What's Your Damage" are up, but not public.

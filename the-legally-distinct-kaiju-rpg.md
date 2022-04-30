@@ -3,8 +3,7 @@ title: The Legally Distinct Kaiju RPG
 description: A third game for itch.io
 published: true
 date: 2020-02-08T09:59:32.000Z
-tags:
-  - game design diary
+tags: game design diary
 editor: markdown
 dateCreated: 2020-02-08T09:59:32.000Z
 ---

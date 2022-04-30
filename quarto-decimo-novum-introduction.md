@@ -3,11 +3,7 @@ title: "Quarto Decimo Novum: Introduction"
 description: Building an FFXIV fan game in Genesys
 published: true
 date: 2019-11-19T01:48:45.000Z
-tags:
-  - quarto decimo novum
-  - genesys
-  - ffxiv
-  - game design diary
+tags: quarto decimo novum, genesys, ffxiv, game design diary
 editor: markdown
 dateCreated: 2019-11-19T01:48:45.000Z
 ---

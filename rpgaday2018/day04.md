@@ -1,12 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 4'
-date: 2018-08-04 15:16:33
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
-  - masks
+title: "#RPGaDay2018 Day 4"
+description: "#RPGaDay2018 Day 4"
+published: true
+date: &a1 2018-08-04T15:16:33.000Z
+tags: rpg-a-day, masks, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 4: Most Memorable NPC?**

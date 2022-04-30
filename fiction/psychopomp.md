@@ -1,10 +1,11 @@
 ---
-date: 2015-09-04
 title: Psychopomp
-categories:
-  - Fiction
-tags:
-  - religion
+description: Psychopomp
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: religion, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 They say that the soul chooses its own destination after death - if you feel you belong in Heaven, then that's where you go. If you condemn yourself to Hell, your mind makes it real. I hate to imagine that it's true. Too many mass murderers have been convinced they were doing God's work, and too many people have struggled with crippling neuroses and taken a suicide attempt to a successful conclusion.

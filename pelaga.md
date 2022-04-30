@@ -1,12 +1,11 @@
 ---
-date: 2016/12/04
 title: Pelaga
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - grand adventure
-  - setting
+description: Pelaga
+published: true
+date: 2016/12/04
+tags: grand adventure, setting, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2016/12/04
 ---
 
 In comments on a [previous post], describing a sample world for [Grand Adventure]

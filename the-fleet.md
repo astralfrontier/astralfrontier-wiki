@@ -3,9 +3,7 @@ title: The Fleet
 description: An optional rule for Fellowship that tries to solve a problem our group had
 published: true
 date: 2020-03-04T10:02:12.000Z
-tags:
-  - fellowship
-  - pbta
+tags: fellowship, pbta
 editor: markdown
 dateCreated: 2020-03-04T10:02:12.000Z
 ---

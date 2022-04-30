@@ -3,8 +3,7 @@ title: "Flip-a-Card: GM roles"
 description: Slicing up the GM role and serving it four ways.
 published: true
 date: 2020-03-09T08:31:52.000Z
-tags:
-  - flip-a-card
+tags: flip-a-card
 editor: markdown
 dateCreated: 2020-03-09T08:31:52.000Z
 ---

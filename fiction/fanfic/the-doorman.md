@@ -1,10 +1,11 @@
 ---
-date: 2015-06-22
 title: The Doorman
-categories:
-  - Fiction
-tags:
-  - eclipse phase
+description: The Doorman
+published: true
+date: &a1 2015-06-22T00:00:00.000Z
+tags: eclipse phase, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 Hi there!

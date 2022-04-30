@@ -1,9 +1,11 @@
 ---
-date: 2016/03/04
 title: Fairy Soul Opposition
-tags:
-  - fairy soul
-  - pbta
+description: Fairy Soul Opposition
+published: true
+date: 2016/03/04
+tags: fairy soul, pbta
+editor: markdown
+dateCreated: 2016/03/04
 ---
 
 I'm taking a break from Grand Adventure to work on some other game design,

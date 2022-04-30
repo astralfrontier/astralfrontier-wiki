@@ -3,9 +3,7 @@ title: Life in the Crates
 description: More about Rivet and his background
 published: true
 date: 2020-02-16T07:04:10.000Z
-tags:
-  - masks
-  - fiction
+tags: masks, fiction
 editor: markdown
 dateCreated: 2020-02-16T07:04:10.000Z
 ---

@@ -1,9 +1,11 @@
 ---
-date: 2015/10/12
 title: Souls of Steel play report
-tags:
-  - convention
-  - mecha
+description: Souls of Steel play report
+published: true
+date: 2015/10/12
+tags: convention, mecha
+editor: markdown
+dateCreated: 2015/10/12
 ---
 
 On Sunday at [GeekGirlCon], I got to play a

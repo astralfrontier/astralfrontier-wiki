@@ -3,9 +3,7 @@ title: "Flip-a-Card: Authority part 1"
 description: Assorted thoughts on authority and delegation
 published: true
 date: 2020-01-22T04:55:03.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-22T04:55:03.000Z
 ---

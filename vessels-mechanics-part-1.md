@@ -1,8 +1,11 @@
 ---
-date: 2015/07/13
 title: Vessels Mechanics (Part 1)
-tags:
-  - vessels
+description: Vessels Mechanics (Part 1)
+published: true
+date: 2015/07/13
+tags: vessels
+editor: markdown
+dateCreated: 2015/07/13
 ---
 
 The "Vessels" game I've been working on has been a struggle.

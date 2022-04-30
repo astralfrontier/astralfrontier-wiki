@@ -3,9 +3,7 @@ title: "Flip-a-Card: Delegating Storyteller Authority"
 description: An early idea for how to make running NPCs easier in a shared environment.
 published: true
 date: &a1 2020-05-12T13:08:15.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: *a1
 ---

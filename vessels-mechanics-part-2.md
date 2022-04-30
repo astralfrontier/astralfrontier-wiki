@@ -1,8 +1,11 @@
 ---
-date: 2015/07/23
 title: Vessels Mechanics (Part 2)
-tags:
-  - vessels
+description: Vessels Mechanics (Part 2)
+published: true
+date: 2015/07/23
+tags: vessels
+editor: markdown
+dateCreated: 2015/07/23
 ---
 
 [In the last post](/2015/07/13/vessels-mechanics-part-1/),

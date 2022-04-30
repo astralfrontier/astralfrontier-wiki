@@ -3,8 +3,7 @@ title: Don't Give a Shit
 description: aka the DGAS theory
 published: true
 date: 2020-02-25T07:54:42.000Z
-tags:
-  - palaver
+tags: palaver
 editor: markdown
 dateCreated: 2020-02-25T07:54:42.000Z
 ---

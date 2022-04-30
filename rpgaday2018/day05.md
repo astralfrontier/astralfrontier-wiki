@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 5'
-date: 2018-08-07 15:16:04
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 5"
+description: "#RPGaDay2018 Day 5"
+published: true
+date: &a1 2018-08-07T15:16:04.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 Catching up on #RPGaDAY2018 after two days of moving!

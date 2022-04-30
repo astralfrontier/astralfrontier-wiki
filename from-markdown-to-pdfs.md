@@ -3,8 +3,7 @@ title: From Markdown to PDFs
 description: How I'm using Pandoc to separate content and layout
 published: true
 date: 2020-02-20T05:52:58.000Z
-tags:
-  - game design diary
+tags: game design diary
 editor: markdown
 dateCreated: 2020-02-20T05:52:58.000Z
 ---

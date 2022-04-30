@@ -1,9 +1,11 @@
 ---
-date: 2015/10/11
 title: GeekGirlCon After-Action Report
-tags:
-  - inept sorcerers
-  - convention
+description: GeekGirlCon After-Action Report
+published: true
+date: 2015/10/11
+tags: inept sorcerers, convention
+editor: markdown
+dateCreated: 2015/10/11
 ---
 
 I spent two days helping to facilitate games at the Games on Demand

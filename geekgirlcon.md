@@ -1,9 +1,11 @@
 ---
-date: 2015/09/27
 title: GeekGirlCon
-tags:
-  - inept sorcerers
-  - convention
+description: GeekGirlCon
+published: true
+date: 2015/09/27
+tags: inept sorcerers, convention
+editor: markdown
+dateCreated: 2015/09/27
 ---
 
 I've been invited to run [Inept Sorcerers] at [GeekGirlCon] this year,

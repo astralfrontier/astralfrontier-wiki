@@ -1,10 +1,11 @@
 ---
 title: JRPG protagonists as D&D 5e characters
-date: 2018-10-31 17:43:01
-categories:
-  - Roleplaying
-tags:
-  - dndnext
+description: JRPG protagonists as D&D 5e characters
+published: true
+date: &a1 2018-10-31T17:43:01.000Z
+tags: dndnext, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 The classic JRPG protagonist is a recognizable character. He (it's a male) is a teenager, with one surviving parent, a weakness for girls he met three seconds ago, and an outrageous hairstyle. So let's build a character like this in Dungeons & Dragons, 5th edition (5e).

@@ -1,11 +1,11 @@
 ---
 title: The Unmasking
-date: 2018-10-29 23:46:12
-categories:
-  - Roleplaying
-tags:
-  - masks
-  - supers
+description: The Unmasking
+published: true
+date: &a1 2018-10-29T23:46:12.000Z
+tags: masks, supers, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 The game I've been playing for over a year, colloquially known as "Monday Masks", is coming to an end.

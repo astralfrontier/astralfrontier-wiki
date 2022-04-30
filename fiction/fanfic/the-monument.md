@@ -1,10 +1,11 @@
 ---
-date: 2015-06-22
 title: The Monument
-categories:
-  - Fiction
-tags:
-  - star trek
+description: The Monument
+published: true
+date: &a1 2015-06-22T00:00:00.000Z
+tags: star trek, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 The grounds of Starfleet Academy are expansive and well-mapped. Voice-activated navigation and other computerized services are omnipresent. Ensign Jameson stood looking at the wall, musing.

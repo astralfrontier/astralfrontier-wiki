@@ -1,8 +1,11 @@
 ---
-date: 2016/03/13
 title: CityMind
-tags:
-  - scifi
+description: CityMind
+published: true
+date: 2016/03/13
+tags: scifi
+editor: markdown
+dateCreated: 2016/03/13
 ---
 
 Two ideas came together for me this morning:

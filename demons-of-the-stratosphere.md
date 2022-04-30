@@ -3,8 +3,7 @@ title: Demons of the Stratosphere
 description: A high-energy dream that feels like it might be a fun one-shot
 published: true
 date: 2020-02-02T11:38:48.000Z
-tags:
-  - dream
+tags: dream
 editor: markdown
 dateCreated: 2020-02-02T11:38:48.000Z
 ---

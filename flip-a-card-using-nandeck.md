@@ -3,9 +3,7 @@ title: "Flip-a-Card: Using nanDECK"
 description: How I used nanDECK to quickly lay out some cards for this game
 published: true
 date: 2019-12-21T08:15:10.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2019-12-21T08:15:10.000Z
 ---

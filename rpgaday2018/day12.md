@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 12'
-date: 2018-08-13 00:54:18
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 12"
+description: "#RPGaDay2018 Day 12"
+published: true
+date: &a1 2018-08-13T00:54:18.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 12: Wildest Character Concept**

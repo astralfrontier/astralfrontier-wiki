@@ -3,8 +3,7 @@ title: Name Five Games...
 description: What are five games I like for different reasons? From a recent tweet
 published: true
 date: 2019-12-27T02:47:32.000Z
-tags:
-  - palaver
+tags: palaver
 editor: markdown
 dateCreated: 2019-12-27T02:47:32.000Z
 ---

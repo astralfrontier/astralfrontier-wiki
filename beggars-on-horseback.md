@@ -1,12 +1,11 @@
 ---
-date: 2016/09/20
 title: Beggars on Horseback
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - inept sorcerers
-icon: magic
+description: Beggars on Horseback
+published: true
+date: 2016/09/20
+tags: inept sorcerers, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2016/09/20
 ---
 
 Wishes have power.

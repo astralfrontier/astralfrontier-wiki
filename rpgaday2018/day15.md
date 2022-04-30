@@ -1,12 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 15'
-date: 2018-08-15 10:41:01
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
-  - masks
+title: "#RPGaDay2018 Day 15"
+description: "#RPGaDay2018 Day 15"
+published: true
+date: &a1 2018-08-15T10:41:01.000Z
+tags: rpg-a-day, masks, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 15: Describe a tricky RPG experience that you enjoyed**

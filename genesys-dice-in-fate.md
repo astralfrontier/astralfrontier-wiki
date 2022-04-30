@@ -3,9 +3,7 @@ title: Genesys Dice in Fate
 description: A short goofy idea for adapting dice
 published: true
 date: 2020-02-27T10:22:59.000Z
-tags:
-  - genesys
-  - fate
+tags: genesys, fate
 editor: markdown
 dateCreated: 2020-02-27T10:22:59.000Z
 ---

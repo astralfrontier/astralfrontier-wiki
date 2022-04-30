@@ -1,12 +1,11 @@
 ---
-date: 2016/11/28
 title: More Talispire
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - grand adventure
-  - talispire
+description: More Talispire
+published: true
+date: 2016/11/28
+tags: grand adventure, talispire, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2016/11/28
 ---
 
 This is another list of things I like about Talispire,

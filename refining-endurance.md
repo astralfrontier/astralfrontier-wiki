@@ -3,9 +3,7 @@ title: Refining Endurance
 description: How would I improve the Champions Lite system?
 published: true
 date: 2020-02-23T08:00:45.000Z
-tags:
-  - superhero
-  - game design diary
+tags: superhero, game design diary
 editor: markdown
 dateCreated: 2020-02-23T08:00:45.000Z
 ---

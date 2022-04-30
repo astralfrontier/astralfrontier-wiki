@@ -3,8 +3,7 @@ title: Masks-616 characters
 description: More Masks characters for my Monday game
 published: true
 date: 2020-03-08T09:32:29.000Z
-tags:
-  - masks
+tags: masks
 editor: markdown
 dateCreated: 2020-03-08T09:32:29.000Z
 ---

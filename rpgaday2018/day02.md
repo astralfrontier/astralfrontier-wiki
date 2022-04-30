@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 2'
-date: 2018-08-02 22:55:00
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 2"
+description: "#RPGaDay2018 Day 2"
+published: true
+date: &a1 2018-08-02T22:55:00.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 2: What do you look for in an RPG?**

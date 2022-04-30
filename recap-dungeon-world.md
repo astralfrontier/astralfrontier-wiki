@@ -3,9 +3,7 @@ title: "Recap: Dungeon World"
 description: A quick one-shot of Dungeon World
 published: true
 date: 2020-01-07T07:25:44.000Z
-tags:
-  - recap
-  - pbta
+tags: recap, pbta
 editor: markdown
 dateCreated: 2020-01-07T07:25:44.000Z
 ---

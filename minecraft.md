@@ -1,8 +1,11 @@
 ---
 title: In the Nether
-date: 2018-11-25
-tags:
-  - minecraft
+description: In the Nether
+published: true
+date: &a1 2018-11-25T00:00:00.000Z
+tags: minecraft
+editor: markdown
+dateCreated: *a1
 ---
 
 I posted this Minecraft filk a long time ago. It's random and goofy, so now seems a good time to put it up on this site.

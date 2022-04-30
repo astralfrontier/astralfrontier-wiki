@@ -1,8 +1,11 @@
 ---
-date: 2015/10/01
 title: Top Ten Super-Tropes (that I hate)
-tags:
-  - supers
+description: Top Ten Super-Tropes (that I hate)
+published: true
+date: 2015/10/01
+tags: supers
+editor: markdown
+dateCreated: 2015/10/01
 ---
 
 I recently backed the [Masks] Kickstarter, and I think it will be well worth it.

@@ -3,8 +3,7 @@ title: Typesetting RPGs with TeX
 description: What I'm learning about programmatically type-setting
 published: true
 date: 2020-01-12T08:12:40.000Z
-tags:
-  - game design diary
+tags: game design diary
 editor: markdown
 dateCreated: 2020-01-12T08:12:40.000Z
 ---

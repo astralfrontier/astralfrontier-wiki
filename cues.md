@@ -1,11 +1,11 @@
 ---
-date: 2015/07/06
 title: Cues
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - cues
+description: Cues
+published: true
+date: 2015/07/06
+tags: cues, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2015/07/06
 ---
 
 I've been working on a system I call "cues". First, I'll introduce the system itself, then talk about why it's written the way it is, and some possible ways to use it.

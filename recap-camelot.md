@@ -3,9 +3,7 @@ title: "Recap: Camelot!"
 description: The adventurers arrive in Camelot! It's less silly than you think though
 published: true
 date: 2020-01-20T08:18:52.000Z
-tags:
-  - recap
-  - genesys
+tags: recap, genesys
 editor: markdown
 dateCreated: 2020-01-20T08:18:52.000Z
 ---

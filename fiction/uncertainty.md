@@ -1,10 +1,11 @@
 ---
-date: 2015-09-04
 title: Uncertainty
-categories:
-  - Fiction
-tags:
-  - science
+description: Uncertainty
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: science, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 Lucky's been directing movies for 30 years.

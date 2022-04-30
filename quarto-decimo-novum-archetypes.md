@@ -3,11 +3,7 @@ title: "Quarto Decimo Novum: Archetypes"
 description: Eorzean racial archetypes
 published: true
 date: 2019-11-22T09:42:11.000Z
-tags:
-  - quarto decimo novum
-  - game design diary
-  - ffxiv
-  - genesys
+tags: quarto decimo novum, game design diary, ffxiv, genesys
 editor: markdown
 dateCreated: 2019-11-22T09:42:11.000Z
 ---

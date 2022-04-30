@@ -3,10 +3,7 @@ title: November 12 Twitter roundup
 description: November 12 Twitter roundup
 published: true
 date: 2019-11-13T00:37:59.000Z
-tags:
-  - twitter
-  - doctor who
-  - wuxia
+tags: twitter, doctor who, wuxia
 editor: markdown
 dateCreated: 2019-11-13T00:37:59.000Z
 ---

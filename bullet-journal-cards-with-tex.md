@@ -3,8 +3,7 @@ title: Bullet Journal cards with TeX
 description: Mass producing captioned image cards
 published: true
 date: 2020-02-13T06:56:41.000Z
-tags:
-  - bullet journal
+tags: bullet journal
 editor: markdown
 dateCreated: 2020-02-13T06:56:41.000Z
 ---

@@ -1,10 +1,11 @@
 ---
-date: 2015-09-04
 title: Drosselmeyer's Daughter
-categories:
-  - Fiction
-tags:
-  - empyrean city
+description: Drosselmeyer's Daughter
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: empyrean city, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 Old Drosselmeyer straightens out his doll on the workbench.  He surveys her gears and clockwork with pride.  He attaches her skin carefully, mindful of the folds and creases.  It must look natural, after all, but still beautiful.  He winds her with pride.  The doll's voice creaks out from hidden speakers; the mouth moves.  "H.. he....l..l..o... f..a..t..h..e..r.."

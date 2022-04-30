@@ -3,8 +3,7 @@ title: "Masks: more sheets!"
 description: Detox, Scrapper, and Wolf 359
 published: true
 date: 2020-02-04T08:19:32.000Z
-tags:
-  - masks
+tags: masks
 editor: markdown
 dateCreated: 2020-02-04T08:19:32.000Z
 ---

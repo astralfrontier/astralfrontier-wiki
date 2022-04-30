@@ -1,12 +1,11 @@
 ---
 title: Link's Backstory
-date: 2017-08-11 00:51:56
-categories:
-  - Roleplaying
-tags:
-  - masks
-  - supers
-  - link
+description: Link's Backstory
+published: true
+date: &a1 2017-08-11T00:51:56.000Z
+tags: masks, supers, link, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 Here's [Link](/2017/08/07/link/)'s backstory for the Tuesday Masks game.

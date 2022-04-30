@@ -3,9 +3,7 @@ title: "Flip-a-Card: Character Card Preview"
 description: What are the character cards I'm creating for the playtest deck?
 published: true
 date: 2019-12-29T10:58:07.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2019-12-29T10:58:07.000Z
 ---

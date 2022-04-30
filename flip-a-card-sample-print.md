@@ -3,9 +3,7 @@ title: "Flip-a-Card: Proofs"
 description: How did the cards turn out?
 published: true
 date: 2019-12-22T03:34:38.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2019-12-22T03:34:38.000Z
 ---

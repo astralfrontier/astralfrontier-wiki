@@ -3,8 +3,7 @@ title: Death By Misadventure
 description: A dinky little game about a haunted dungeon and an overconfident adventurer
 published: true
 date: 2020-01-09T23:59:16.000Z
-tags:
-  - game design diary
+tags: game design diary
 editor: markdown
 dateCreated: 2020-01-09T23:59:16.000Z
 ---

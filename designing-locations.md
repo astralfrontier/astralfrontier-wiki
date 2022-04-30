@@ -1,12 +1,11 @@
 ---
-date: 2016/07/19
 title: Designing Locations for the Compleat Villain
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - compleat villain
-  - supers
+description: Designing Locations for the Compleat Villain
+published: true
+date: 2016/07/19
+tags: compleat villain, supers, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2016/07/19
 ---
 
 I've been learning how to write for years, and I'm still definitely not there.

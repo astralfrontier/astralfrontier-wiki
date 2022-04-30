@@ -3,8 +3,7 @@ title: A two-card tactical system
 description: Early noodling on what a card-based tactical system might look like
 published: true
 date: 2020-03-10T00:44:05.000Z
-tags:
-  - flip-a-card
+tags: flip-a-card
 editor: markdown
 dateCreated: 2020-03-10T00:44:05.000Z
 ---

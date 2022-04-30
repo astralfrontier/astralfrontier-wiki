@@ -3,9 +3,7 @@ title: "Recap: Demigods Session 0"
 description: The character-creation session of a Demigods game I'm briefly running
 published: true
 date: 2020-01-14T10:54:13.000Z
-tags:
-  - recap
-  - demigods
+tags: recap, demigods
 editor: markdown
 dateCreated: 2020-01-14T10:54:13.000Z
 ---

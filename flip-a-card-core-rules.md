@@ -3,9 +3,7 @@ title: "Flip-a-Card: Core Rules"
 description: What are some of the core rules for a flip-a-card game?
 published: true
 date: 2019-12-20T09:56:48.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2019-12-20T09:56:48.000Z
 ---

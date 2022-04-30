@@ -1,10 +1,11 @@
 ---
-date: 2015-09-04
 title: Healing is the Hardest Role
-tags:
-  - world of warcraft
-categories:
-  - MMORPG
+description: Healing is the Hardest Role
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: world of warcraft, MMORPG
+editor: markdown
+dateCreated: *a1
 ---
 
 **Note:** This was written from the perspective of a World of Warcraft raider, but some of it will apply to other MMOs as well.

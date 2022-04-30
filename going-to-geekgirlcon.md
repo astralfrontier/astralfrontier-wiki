@@ -3,9 +3,7 @@ title: Going to GeekGirlCon
 description: Going to GeekGirlCon
 published: true
 date: 2019-11-16T05:25:57.000Z
-tags:
-  - convention
-  - geekgirlcon
+tags: convention, geekgirlcon
 editor: markdown
 dateCreated: 2019-11-16T05:25:57.000Z
 ---

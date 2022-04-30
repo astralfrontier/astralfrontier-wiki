@@ -1,12 +1,11 @@
 ---
-date: 2016/06/10
 title: The Compleat Villain
-categories:
-  - Roleplaying
-  - Game Design Diary
-tags:
-  - compleat villain
-  - supers
+description: The Compleat Villain
+published: true
+date: 2016/06/10
+tags: compleat villain, supers, Roleplaying, Game Design Diary
+editor: markdown
+dateCreated: 2016/06/10
 ---
 
 I'm finally getting off my ass and putting together "The Compleat Villain".

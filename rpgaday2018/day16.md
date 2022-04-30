@@ -1,12 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 16'
-date: 2018-08-16 03:38:59
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
-  - flip-a-card
+title: "#RPGaDay2018 Day 16"
+description: "#RPGaDay2018 Day 16"
+published: true
+date: &a1 2018-08-16T03:38:59.000Z
+tags: rpg-a-day, flip-a-card, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 16: Describe your plans for your next game**

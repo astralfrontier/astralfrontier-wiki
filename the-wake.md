@@ -1,12 +1,11 @@
 ---
 title: The Wake
-date: 2017-07-17 11:05:33
-categories:
-  - Roleplaying
-tags:
-  - the wake
-  - fantasy
-  - setting
+description: The Wake
+published: true
+date: &a1 2017-07-17T11:05:33.000Z
+tags: the wake, fantasy, setting, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 "The Wake" is the name of a dreamlike fantasy world I'm creating for Fate.

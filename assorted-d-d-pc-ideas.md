@@ -1,11 +1,11 @@
 ---
 title: Assorted D&D PC ideas
-date: 2018-11-11 21:35:33
-categories:
-  - Roleplaying
-tags:
-  - dndnext
-  - characters
+description: Assorted D&D PC ideas
+published: true
+date: &a1 2018-11-11T21:35:33.000Z
+tags: dndnext, characters, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 Here's a few D&D 5th edition character ideas that I'm working on for an upcoming game.

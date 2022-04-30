@@ -3,8 +3,7 @@ title: The Architects of Evil
 description: A not-at-all serious group of supervillains for Masks
 published: true
 date: 2020-02-22T08:40:20.000Z
-tags:
-  - masks
+tags: masks
 editor: markdown
 dateCreated: 2020-02-22T08:40:20.000Z
 ---

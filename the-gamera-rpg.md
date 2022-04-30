@@ -3,8 +3,7 @@ title: Gamera the RPG
 description: A stupid little one-shot RPG that has actually been played!
 published: true
 date: 2019-12-24T04:02:00.000Z
-tags:
-  - game design diary
+tags: game design diary
 editor: markdown
 dateCreated: 2019-12-24T04:02:00.000Z
 ---

@@ -1,12 +1,11 @@
 ---
 title: Link Key Tech
-date: 2018-03-21 02:31:52
-categories:
-  - Roleplaying
-tags:
-  - masks
-  - supers
-  - link
+description: Link Key Tech
+published: true
+date: &a1 2018-03-21T02:31:52.000Z
+tags: masks, supers, link, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 Some key technology concepts for [Link](/2017/08/07/link/).

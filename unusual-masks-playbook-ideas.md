@@ -3,8 +3,7 @@ title: Unusual Masks playbook ideas
 description: What if we don't keep playing Batman and Green Lantern clones?
 published: true
 date: 2020-01-24T06:59:05.000Z
-tags:
-  - masks
+tags: masks
 editor: markdown
 dateCreated: 2020-01-24T06:59:05.000Z
 ---

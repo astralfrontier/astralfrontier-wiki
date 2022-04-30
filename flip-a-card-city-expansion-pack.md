@@ -3,9 +3,7 @@ title: "Flip-a-Card: City Expansion Pack"
 description: A way to create fantastic cities with a couple of card types.
 published: true
 date: &a1 2020-05-13T11:53:04.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: *a1
 ---

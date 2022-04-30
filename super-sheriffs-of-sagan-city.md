@@ -1,11 +1,11 @@
 ---
-date: 2015/12/07
 title: Super-Sheriffs of Sagan City
-categories:
-  - Roleplaying
-tags:
-  - sssc
-  - supers
+description: Super-Sheriffs of Sagan City
+published: true
+date: 2015/12/07
+tags: sssc, supers, Roleplaying
+editor: markdown
+dateCreated: 2015/12/07
 ---
 
 I've been running a play-by-post game with an overly long name.

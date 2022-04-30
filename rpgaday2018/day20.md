@@ -1,12 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 20'
-date: 2018-08-20 15:11:20
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
-  - flip-a-card
+title: "#RPGaDay2018 Day 20"
+description: "#RPGaDay2018 Day 20"
+published: true
+date: &a1 2018-08-20T15:11:20.000Z
+tags: rpg-a-day, flip-a-card, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 20: Which game mechanic inspires your play the most?**

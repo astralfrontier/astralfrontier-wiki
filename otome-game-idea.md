@@ -1,9 +1,11 @@
 ---
-date: 2016/01/03
 title: An Otome Game idea
-tags:
-  - silver sheen
-  - otome
+description: An Otome Game idea
+published: true
+date: 2016/01/03
+tags: silver sheen, otome
+editor: markdown
+dateCreated: 2016/01/03
 ---
 
 I watched a friend live-stream one of the [Amnesia] games the other night.

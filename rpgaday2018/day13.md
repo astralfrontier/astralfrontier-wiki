@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 13'
-date: 2018-08-13 23:08:30
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 13"
+description: "#RPGaDay2018 Day 13"
+published: true
+date: &a1 2018-08-13T23:08:30.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 13: Describe how your play has evolved**

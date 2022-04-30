@@ -1,8 +1,11 @@
 ---
-date: 2015/06/07
 title: Vessels - Mechanics
-tags:
-  - vessels
+description: Vessels - Mechanics
+published: true
+date: 2015/06/07
+tags: vessels
+editor: markdown
+dateCreated: 2015/06/07
 ---
 
 Let's start with some of my deeper goals.

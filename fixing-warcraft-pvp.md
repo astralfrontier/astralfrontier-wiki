@@ -3,8 +3,7 @@ title: Fixing Warcraft PVP
 description: A suggestion for how to make WoW PVP more interesting and less racial
 published: true
 date: 2020-01-15T08:59:21.000Z
-tags:
-  - palaver
+tags: palaver
 editor: markdown
 dateCreated: 2020-01-15T08:59:21.000Z
 ---

@@ -3,9 +3,7 @@ title: "Flip-a-Card: More TeX!"
 description: Progress on typesetting cards with TeX
 published: true
 date: 2020-01-26T09:47:41.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-26T09:47:41.000Z
 ---

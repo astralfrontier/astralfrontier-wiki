@@ -3,9 +3,7 @@ title: "Masks: Silverline Issues 0-4"
 description: The first five stories, plus links to PC sheets and biographies
 published: true
 date: 2019-12-24T21:57:15.000Z
-tags:
-  - silverline
-  - masks
+tags: silverline, masks
 editor: markdown
 dateCreated: 2019-12-24T21:57:15.000Z
 ---

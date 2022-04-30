@@ -3,8 +3,7 @@ title: December 18 Twitter roundup
 description: What's going on in social media today?
 published: true
 date: 2019-12-19T10:23:36.000Z
-tags:
-  - twitter
+tags: twitter
 editor: markdown
 dateCreated: 2019-12-19T10:23:36.000Z
 ---

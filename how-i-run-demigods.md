@@ -3,8 +3,7 @@ title: How I Run Demigods
 description: Assorted GM advice for the Demigods PBTA game
 published: true
 date: 2020-02-25T07:19:01.000Z
-tags:
-  - demigods
+tags: demigods
 editor: markdown
 dateCreated: 2020-02-25T07:19:01.000Z
 ---

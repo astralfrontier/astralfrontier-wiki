@@ -3,9 +3,7 @@ title: "Recap: King Crabbe's Dungeon Crawl"
 description: The second half of an Arthurian/Flash Gordon dungeon crawl
 published: true
 date: 2019-11-25T02:56:22.000Z
-tags:
-  - recap
-  - genesys
+tags: recap, genesys
 editor: markdown
 dateCreated: 2019-11-25T02:56:22.000Z
 ---

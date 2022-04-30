@@ -3,9 +3,7 @@ title: New designs for Inept Sorcerers
 description: Some ideas for a new version of my first real game
 published: true
 date: 2020-02-09T08:39:30.000Z
-tags:
-  - inept sorcerers
-  - game design diary
+tags: inept sorcerers, game design diary
 editor: markdown
 dateCreated: 2020-02-09T08:39:30.000Z
 ---

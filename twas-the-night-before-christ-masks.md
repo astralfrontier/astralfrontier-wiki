@@ -3,8 +3,7 @@ title: "'Twas the night before Christ-Masks"
 description: A poem I co-wrote for my Saturday Masks group
 published: true
 date: 2019-12-26T05:15:10.000Z
-tags:
-  - masks
+tags: masks
 editor: markdown
 dateCreated: 2019-12-26T05:15:10.000Z
 ---

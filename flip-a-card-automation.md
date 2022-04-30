@@ -3,9 +3,7 @@ title: "Flip-a-Card: Automation"
 description: Automating the card pipeline with YAML and Node.js
 published: true
 date: 2019-12-31T08:07:53.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2019-12-31T08:07:53.000Z
 ---

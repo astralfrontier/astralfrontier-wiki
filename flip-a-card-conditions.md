@@ -3,9 +3,7 @@ title: "Flip-a-Card: Conditions"
 description: A link to condition cards, which are in review-ready status
 published: true
 date: 2020-01-02T05:34:28.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-02T05:34:28.000Z
 ---

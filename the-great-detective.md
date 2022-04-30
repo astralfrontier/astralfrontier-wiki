@@ -3,9 +3,7 @@ title: The Great Detective
 description: A hack of For the Queen for classic detective fiction.
 published: true
 date: &a1 2020-06-18T02:50:55.000Z
-tags:
-  - game design diary
-  - for the queen
+tags: game design diary, for the queen
 editor: markdown
 dateCreated: *a1
 ---

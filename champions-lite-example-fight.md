@@ -3,9 +3,7 @@ title: Champions Lite Example Fight
 description: What would a Champions Lite battle look like?
 published: true
 date: 2020-02-12T10:33:23.000Z
-tags:
-  - superhero
-  - game design diary
+tags: superhero, game design diary
 editor: markdown
 dateCreated: 2020-02-12T10:33:23.000Z
 ---

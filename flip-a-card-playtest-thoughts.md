@@ -3,9 +3,7 @@ title: "Flip-a-Card: Playtest Thoughts"
 description: What did this little playtest tell me?
 published: true
 date: 2020-01-18T07:51:48.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-18T07:51:48.000Z
 ---

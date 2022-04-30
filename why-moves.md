@@ -1,8 +1,11 @@
 ---
-date: 2015/06/19
 title: Why Moves...
-tags:
-  - pbta
+description: Why Moves...
+published: true
+date: 2015/06/19
+tags: pbta
+editor: markdown
+dateCreated: 2015/06/19
 ---
 
 Writing the long-delayed, much-changed Vessels game has led me back,

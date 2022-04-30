@@ -3,9 +3,7 @@ title: "Flip-a-Card: Condition rewrites"
 description: What do the new condition cards look like, now that they got reviewed?
 published: true
 date: 2020-01-30T07:53:37.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-30T07:53:37.000Z
 ---

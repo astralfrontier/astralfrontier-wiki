@@ -1,10 +1,11 @@
 ---
-date: 2015-09-04
 title: Army of the Dead
-categories:
-  - Fiction
-tags:
-  - undead
+description: Army of the Dead
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: undead, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 To my dearest Tomas,

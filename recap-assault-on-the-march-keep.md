@@ -3,9 +3,7 @@ title: "Recap: Assault on the March Keep!"
 description: The Sunday Genesys group defends a castle from magical attack
 published: true
 date: 2020-01-06T04:09:31.000Z
-tags:
-  - recap
-  - genesys
+tags: recap, genesys
 editor: markdown
 dateCreated: 2020-01-06T04:09:31.000Z
 ---

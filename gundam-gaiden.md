@@ -1,10 +1,11 @@
 ---
-date: 2015/10/22
 title: Gundam Gaiden
-tags:
-  - convention
-  - mecha
-  - scifi
+description: Gundam Gaiden
+published: true
+date: 2015/10/22
+tags: convention, mecha, scifi
+editor: markdown
+dateCreated: 2015/10/22
 ---
 
 Thinking more about the

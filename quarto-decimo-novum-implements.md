@@ -3,11 +3,7 @@ title: "Quarto Decimo Novum: Implements"
 description: The magical implements used by some classes and jobs
 published: true
 date: 2019-12-03T08:34:39.000Z
-tags:
-  - quarto decimo novum
-  - game design diary
-  - ffxiv
-  - genesys
+tags: quarto decimo novum, game design diary, ffxiv, genesys
 editor: markdown
 dateCreated: 2019-12-03T08:34:39.000Z
 ---

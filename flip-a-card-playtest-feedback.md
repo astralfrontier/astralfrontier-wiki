@@ -3,9 +3,7 @@ title: "Flip-a-Card: Playtest Feedback"
 description: Collected notes on the April 19 playtest.
 published: true
 date: &a1 2020-04-26T05:15:19.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: *a1
 ---

@@ -3,9 +3,7 @@ title: "Flip-a-Card: Task Resolution"
 description: What are some ways to handle task resolution, success/failure, etc.?
 published: true
 date: 2019-12-11T02:43:45.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2019-12-11T02:43:45.000Z
 ---

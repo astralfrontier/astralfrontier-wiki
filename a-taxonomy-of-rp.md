@@ -4,8 +4,7 @@ description: Cutscenes, recaps, and PBP - what am I talking about when I talk
   about the act of playing a game?
 published: true
 date: 2019-11-13T21:44:23.000Z
-tags:
-  - palaver
+tags: palaver
 editor: markdown
 dateCreated: 2019-11-13T21:44:23.000Z
 ---

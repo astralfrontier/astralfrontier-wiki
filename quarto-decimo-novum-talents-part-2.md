@@ -3,11 +3,7 @@ title: "Quarto Decimo Novum: Talents Part 2"
 description: Second-tier talents for FFXIV characters
 published: true
 date: 2019-12-15T00:20:36.000Z
-tags:
-  - quarto decimo novum
-  - game design diary
-  - ffxiv
-  - genesys
+tags: quarto decimo novum, game design diary, ffxiv, genesys
 editor: markdown
 dateCreated: 2019-12-15T00:20:36.000Z
 ---

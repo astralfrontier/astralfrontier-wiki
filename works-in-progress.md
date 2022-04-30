@@ -1,12 +1,11 @@
 ---
-date: 2017/01/04
 title: Works in Progress
-tags:
-  - compleat villain
-  - fairy soul
-  - grand adventure
-  - helping hand
-  - supers
+description: Works in Progress
+published: true
+date: 2017/01/04
+tags: compleat villain, fairy soul, grand adventure, helping hand, supers
+editor: markdown
+dateCreated: 2017/01/04
 ---
 
 It's 2017.

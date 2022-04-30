@@ -3,9 +3,7 @@ title: Champions Lite Danger Edition
 description: A new playtestable version of the supers game
 published: true
 date: 2020-02-24T06:56:45.000Z
-tags:
-  - superhero
-  - game design diary
+tags: superhero, game design diary
 editor: markdown
 dateCreated: 2020-02-24T06:56:45.000Z
 ---

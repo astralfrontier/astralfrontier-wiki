@@ -1,11 +1,11 @@
 ---
 title: Stormblood 4.1 Crafting
-date: 2017-10-10 11:50:59
-tags:
-  - crafting
-  - ffxiv
-categories:
-  - MMORPG
+description: Stormblood 4.1 Crafting
+published: true
+date: &a1 2017-10-10T11:50:59.000Z
+tags: crafting, ffxiv, MMORPG
+editor: markdown
+dateCreated: *a1
 ---
 
 This is a follow-on from my previous guide,

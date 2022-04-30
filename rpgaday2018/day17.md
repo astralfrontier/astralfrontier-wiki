@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 17'
-date: 2018-08-18 01:05:24
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 17"
+description: "#RPGaDay2018 Day 17"
+published: true
+date: &a1 2018-08-18T01:05:24.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 17: Describe the best compliment you've had while gaming**

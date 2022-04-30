@@ -3,10 +3,7 @@ title: "Masks: Silverline"
 description: Using Masks as a solo game engine
 published: true
 date: 2019-11-27T07:59:20.000Z
-tags:
-  - silverline
-  - pbta
-  - masks
+tags: silverline, pbta, masks
 editor: markdown
 dateCreated: 2019-11-27T07:59:20.000Z
 ---

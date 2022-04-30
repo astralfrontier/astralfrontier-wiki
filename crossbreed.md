@@ -1,13 +1,11 @@
 ---
 title: Crossbreed
-date: 2017-07-19 17:09:44
-tags:
-  - bioshock
-  - gattaca
-  - guilty crown
-categories:
-  - Fiction
-  - Fusion AU
+description: Crossbreed
+published: true
+date: &a1 2017-07-19T17:09:44.000Z
+tags: bioshock, gattaca, guilty crown, Fiction, Fusion AU
+editor: markdown
+dateCreated: *a1
 ---
 
 A "fusion AU" - a combination of many fictional franchises into a single chronology -

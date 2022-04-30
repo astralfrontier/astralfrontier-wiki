@@ -1,11 +1,11 @@
 ---
-date: 2016-07-05
 title: Falken's Matrix
-categories:
-  - Fiction
-  - Fusion AU
-tags:
-  - artificial intelligence
+description: Falken's Matrix
+published: true
+date: &a1 2016-07-05T00:00:00.000Z
+tags: artificial intelligence, Fiction, Fusion AU
+editor: markdown
+dateCreated: *a1
 ---
 
 This is a fictional timeline of a world where artificial intelligence and robotics took center stage.

@@ -1,8 +1,11 @@
 ---
-date: 2015/09/20
 title: The Last Tribe
-tags:
-  - the last tribe
+description: The Last Tribe
+published: true
+date: 2015/09/20
+tags: the last tribe
+editor: markdown
+dateCreated: 2015/09/20
 ---
 
 An idea for a hack of [Ammo](http://cegames.wikidot.com/ammorpg),

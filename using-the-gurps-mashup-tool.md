@@ -3,8 +3,7 @@ title: Using the GURPS Mashup Tool
 description: A few sample campaigns using the GURPS Mashup tool
 published: true
 date: 2019-11-29T02:16:15.000Z
-tags:
-  - gm tools
+tags: gm tools
 editor: markdown
 dateCreated: 2019-11-29T02:16:15.000Z
 ---

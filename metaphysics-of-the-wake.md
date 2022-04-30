@@ -1,12 +1,11 @@
 ---
 title: Metaphysics of the Wake
-date: 2017-07-24 12:53:40
-categories:
-  - Roleplaying
-tags:
-  - the wake
-  - fantasy
-  - setting
+description: Metaphysics of the Wake
+published: true
+date: &a1 2017-07-24T12:53:40.000Z
+tags: the wake, fantasy, setting, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 I've run two sessions of [The Wake](/2017/07/17/the-wake/) for people.

@@ -3,9 +3,7 @@ title: "Masks: Outlining Silverline"
 description: What does the process look like for creating the Silverline stories?
 published: true
 date: 2019-12-16T13:47:49.000Z
-tags:
-  - silverline
-  - masks
+tags: silverline, masks
 editor: markdown
 dateCreated: 2019-12-16T13:47:49.000Z
 ---

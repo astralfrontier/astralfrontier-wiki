@@ -1,11 +1,11 @@
 ---
 title: The Accidental Jedi
-date: 2018-12-11 11:40:35
-categories:
-  - Roleplaying
-tags:
-  - characters
-  - star wars
+description: The Accidental Jedi
+published: true
+date: &a1 2018-12-11T11:40:35.000Z
+tags: characters, star wars, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 I had a weird idea for some character somewhere: the Accidental Jedi.

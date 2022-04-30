@@ -3,9 +3,7 @@ title: "Flip-a-Card: Nearing Version 1.0"
 description: After three weeks of silence, where is this game at?
 published: true
 date: &a1 2020-06-06T10:24:08.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: *a1
 ---

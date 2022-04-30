@@ -3,8 +3,7 @@ title: Avery Alder talks game design
 description: Avery Alder talks game design
 published: true
 date: 2019-11-11T10:07:04.000Z
-tags:
-  - game design diary
+tags: game design diary
 editor: markdown
 dateCreated: 2019-11-11T10:07:04.000Z
 ---

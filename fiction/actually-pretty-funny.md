@@ -1,10 +1,11 @@
 ---
-date: 2016-07-31
 title: Actually Pretty Funny
-categories:
-  - Fiction
-tags:
-  - batman
+description: Actually Pretty Funny
+published: true
+date: &a1 2016-07-31T00:00:00.000Z
+tags: batman, Fiction
+editor: markdown
+dateCreated: *a1
 ---
 
 You're not legally allowed to ask about some things at an interview like this.

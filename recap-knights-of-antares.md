@@ -3,8 +3,7 @@ title: "Recap: Knights of Antares"
 description: A sci-fi one-shot using Genesys
 published: true
 date: 2019-11-16T22:46:54.000Z
-tags:
-  - recap
+tags: recap
 editor: markdown
 dateCreated: 2019-11-16T22:46:54.000Z
 ---

@@ -1,12 +1,11 @@
 ---
 title: Wednesday D&D Bullet Journal
-date: 2018-11-05 18:44:25
-categories:
-  - Roleplaying
-tags:
-  - wednesday dnd
-  - dndnext
-  - bullet journal
+description: Wednesday D&D Bullet Journal
+published: true
+date: &a1 2018-11-05T18:44:25.000Z
+tags: wednesday dnd, dndnext, bullet journal, Roleplaying
+editor: markdown
+dateCreated: *a1
 ---
 
 Here's some pictures of the bullet journal I started keeping for the Wednesday D&D game I'm playing in.

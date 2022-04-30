@@ -1,11 +1,11 @@
 ---
-title: '#RPGaDay2018 Day 31'
-date: 2018-08-31 14:44:35
-categories:
-  - Roleplaying
-  - RPGaDAY2018
-tags:
-  - rpg-a-day
+title: "#RPGaDay2018 Day 31"
+description: "#RPGaDay2018 Day 31"
+published: true
+date: &a1 2018-08-31T14:44:35.000Z
+tags: rpg-a-day, Roleplaying, RPGaDAY2018
+editor: markdown
+dateCreated: *a1
 ---
 
 **Day 31: Share why you take part in RPG-A-DAY**

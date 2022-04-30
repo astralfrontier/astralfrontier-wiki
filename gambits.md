@@ -1,8 +1,11 @@
 ---
-date: 2015/06/08
 title: Gambits
-tags:
-  - gambits
+description: Gambits
+published: true
+date: 2015/06/08
+tags: gambits
+editor: markdown
+dateCreated: 2015/06/08
 ---
 
 In the examples below, I'm introducing a mechanic called "Gambits". A Gambit is a package of conditions (when the Gambit can come into play), costs (determining the Action Cost), and consequences (what the Gambit does on success).

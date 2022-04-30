@@ -3,9 +3,7 @@ title: "Flip-a-Card: the Challenge Economy"
 description: How is flip-a-card intended to work with pacing and difficulty?
 published: true
 date: 2020-01-17T08:26:54.000Z
-tags:
-  - flip-a-card
-  - game design diary
+tags: flip-a-card, game design diary
 editor: markdown
 dateCreated: 2020-01-17T08:26:54.000Z
 ---

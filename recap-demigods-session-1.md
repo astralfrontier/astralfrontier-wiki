@@ -3,9 +3,7 @@ title: "Recap: Demigods Session 1"
 description: How did my first session go?
 published: true
 date: 2020-01-21T06:53:34.000Z
-tags:
-  - recap
-  - demigods
+tags: recap, demigods
 editor: markdown
 dateCreated: 2020-01-21T06:53:34.000Z
 ---

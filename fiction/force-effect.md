@@ -1,14 +1,11 @@
 ---
-date: 2015-09-04
 title: Force Effect
-categories:
-  - Fiction
-  - Fusion AU
-tags:
-  - star wars
-  - mass effect
-  - gundam
-  - battlestar galactica
+description: Force Effect
+published: true
+date: &a1 2015-09-04T00:00:00.000Z
+tags: star wars, mass effect, gundam, battlestar galactica, Fiction, Fusion AU
+editor: markdown
+dateCreated: *a1
 ---
 
 An uncountably long time ago, the founding races of the Republic had independently discovered "Element Zero", or "eezo". Eezo is a unique form of matter capable of creating what was once called the "mass effect", which facilitated interstellar travel, antigravity, and other wonders. Living beings whose nervous systems had traces of eezo developed unusual capabilities. Those beings who traveled into space met other lifeforms, some similar, some not. Together they created an interstellar government called the Republic. And for a thousand generations, it stood as the torch of civilization across the entire galaxy.
